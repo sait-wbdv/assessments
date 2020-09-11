@@ -1,5 +1,5 @@
 # DSGN 270: Fall 2020 Assignments
-## [Design Assignment 1: Market Research](assignment-1/README.md)
+## [Design Assignment 1: Market Research](https://github.com/sait-wbdv/assessments/tree/master/dsgn270/design/assignment-1)
 - Due: TBA @ 8pm
 - Weight: 25% of Final Course Mark
 
