@@ -33,3 +33,6 @@ Assignment 1: 40 points
 - **5 points: Mobile Friendliness** - Clear description of successes and failures of the website related to the mobile experience.
 - **5 points: Website Content** - Clear description of successes and failures of the website related to content.
 - **5 points: Accessibility** - Clear description of successes and failures of the website related to accessibility.
+
+## Appendix
+- [GitHub Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
