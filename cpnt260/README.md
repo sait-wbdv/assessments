@@ -1,6 +1,6 @@
 # CPNT 260: Web Design Fundamentals
 ## Assignment 1: [Splash Page](assignment-1)
-- Due: Sunday, September 20, 2020
+- Due: TBA
 - Weight: 15% of Final Course Mark
 
 ## Assignment 2: [Team Card](assignment-2)
