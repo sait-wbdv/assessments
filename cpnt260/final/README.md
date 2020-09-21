@@ -10,20 +10,14 @@ This project should have a minimum of four sections, linked internally using a "
 
 ### Contact Us
 
-### Registration Form
+### Login and Registration Form
 
-### Login Form
-
-## General
-- All code must validate;
-- Nav must include a logo (can be an icon font, formatted text or similar graphic);
-- Must include at least two social icons of your choice;
-- Site must be responsive;
-- This portfolio does not have to be tech or programming based. It can be based on hobbies, past career work, etc. You will not be marked on the content itself, only the code and design principles used to present it.
+## General Requirements
 
 ## Submission Requirements
-
-Please zip all files required for the site to operate and upload to Brightspace. Also, push this assignment to your `wbdv-assignments` repo to the directory `cpnt260/final`.
+- Push this assignment to a repo named `cpnt260-final`.
+- ZIP all files required for the site to operate and upload to Brightspace. 
+- Leave a link to your GitHub repo as a comment in your Brightspace submission.
 
 ## Marking Rubric
 This project will be marked out of a total of 35 points. 5 points will be given to each of the following:
@@ -38,8 +32,8 @@ This project will be marked out of a total of 35 points. 5 points will be given 
 
 5. **Contact Us**: Website contains a contact page with the deliverables listed above.
 
-6. **Registration and Registration Forms**: Website contains accessible login/registration forms with the deliverables listed above.
+6. **Login and Registration Forms**: Website contains accessible login/registration forms with the deliverables listed above.
 
-7. **Responsiveness**: Design remains unbroken on the following screen sizes: mobile, desktop and wide desktop.
+7. **General Requirements**: Design remains unbroken on the following screen sizes: mobile, desktop and wide desktop.
 
-Note: Marks will be deducted for accessibility violations elsewhere on the website.
+Note: Marks will be deducted for violations of usability and/or accessibility.
