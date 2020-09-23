@@ -1,5 +1,5 @@
 # CPNT 260: Web Design Fundamentals
-## Assignment 1: [Splash Page](assignment-1)
+## Assignment 1: [Click-through splash page](assignment-1)
 - Due: Sunday, Sept 27
 - Weight: 15% of Final Course Mark
 
