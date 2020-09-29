@@ -8,13 +8,17 @@ Add a valid Subscribe `form` to your hero section from Assignment 1 (or a new/di
 - Name
   - text `input`
   - `required`
+  - valid `name` attribute
 - Email
   - email `input`
   - `required`
+  - valid `name` attribute
 - Favourite meal of the day
   - `select` menu
-  - at least three items to choose from
+  - at least three `option`s to choose from
+  - valid `name` and `value` attributes
 - Checkbox: "I would like to recieve promotional emails" or similar.
+  - valid `name` and `value` attributes
 - Submit
   - either and `input` (type="submit") or `button` (type="submit)
 
