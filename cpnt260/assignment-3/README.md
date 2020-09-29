@@ -18,7 +18,7 @@ Add a valid Subscribe `form` to your hero section from Assignment 1 (or a new/di
   - at least three `option`s to choose from
   - valid `name` and `value` attributes
 - Checkbox: "I would like to recieve promotional emails" or similar.
-  - chackbox `input`
+  - checkbox `input`
   - valid `name` and `value` attributes
 - Submit
   - either and `input` (type="submit") or `button` (type="submit)
