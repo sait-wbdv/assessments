@@ -1,11 +1,36 @@
-# Assignment 3: Login and Registration
-Build two splash pages (no content that requires scrolling)
+# Assignment 3: Subscription form
+Scenario: The potential client from Assignment 1 hired you based on your excellent splash page demo! They would like you to use that same design (or a new design if you desire) for a "Website Coming Soon" landing page inviting visitors to sign up for their newsletter.
 
-## Login Form
+They mentioned the Over 18 button isn't needed right now so you can remove it and add the Subscribe form instead.
 
-## Registration Form
+## General
+Add a valid Subscribe `form` to your hero section from Assignment 1 (or a new/different hero section). Fields to include:
+- Name
+  - text `input`
+  - `required`
+- Email
+  - email `input`
+  - `required`
+- Favourite meal of the day
+  - `select` menu
+  - at least three items to choose from
+- Checkbox: "I would like to recieve promotional emails" or similar.
+- Submit
+  - either and `input` (type="submit") or `button` (type="submit)
 
-## Responsiveness
+The hero section should includ an `h1` heading and `p` tagline similar to Assignment 1 (you may remove the Over 18 button). The form should be visually separated from the heading and tagline.
+
+## Form presentation
+- Fieldset border should be removed (reset).
+- Font face should not be default. Use your choice of Google Font.
+- Use some kind of layout technique (flexbox, grid etc) to make the inputs and labels line up neatly.
+- All required fields have a red asterisk next to the `label`.
+
+## Form accessbility
+- The form fields are wrapped in a `fieldset` including an accompanying `legend` element containing user instructions (i.e. "Sign-up to our newsletter"). 
+- All form controls have functioning `label` elements.
+- All text field inputs (name/email) have placeholder text defined.
+- All text field inputs (name/email) fields should be no longer than `30ch` wide.
 
 ## Submission Requirements
 - Push this assignment to a repo named `cpnt260-a3`.
@@ -14,7 +39,14 @@ Build two splash pages (no content that requires scrolling)
 
 ## Marking Rubric: 3 marks will be given for each of the following:
 1. Code Quality
+    - Code must be valid, organized and semantic.
 2. Project Documentation
-3. Login Form
-4. Registration Form
-5. Responsiveness
+    - Code must be commented.
+    - Project must include a README file containing:
+        - Course title;
+        - Author name;
+        - Any comments that may help squeeze marks out of your instructor;
+        - Attributions for any code or assets that are not your own.
+3. General: See requirements above.
+4. Form presentation: See requirements above.
+5. Form accessibility: See requirements above.
