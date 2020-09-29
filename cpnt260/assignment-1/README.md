@@ -1,9 +1,9 @@
 # Assignment 1: Click-through splash page
-Scenario: A smoke shop is opening up in your neighbourhood and your friend knows they're looking for someone to design their website. Knowing that your local bylaws mandate an "Over 18" splash page for smoke shops, you decide to design a demo page for the owner.
+Scenario: A smoke shop is opening up in your neighbourhood and your friend knows that they're looking for someone to design their website. Knowing that your local bylaws mandate an "Over 18" splash page for smoke shops, you decide to design a demo page for the owner.
 
 ## Instructions
 Create a scroll-less hero section that contains:
-- at least image, either HTML or CSS;
+- at least one image, either HTML or CSS;
 - at least one gradient;
 - a heading, wrapped in a `h1`
 - a tagline, wrapped in a `p`
@@ -28,7 +28,7 @@ Further requirements are listed below.
 - Responsiveness:
   - no content can flow off the page;
   - text must be readable when overlapping an image;
-  - `font-size` should be larger on mobile (or portrait) screens;
+  - `font-size` should be smaller on mobile (or portrait) screens;
   - a small scroll bar is acceptable.
 - Accessibility:
   - no text can touch a visible edge (e.g. a button with a coloured background but no padding);
