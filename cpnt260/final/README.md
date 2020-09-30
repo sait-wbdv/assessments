@@ -1,18 +1,58 @@
 # Final Project: 5-page Static Website
-For your final project, you will create your own portfolio website. Marking for this project based on the following:
+Scenario: Your new client is impressed with your work and getting ready to launch the first version of their website. In this project, you will build a 5-page website according to the following specifications.
 
 ## Deliverables
-This project should have a minimum of four sections, linked internally using a "global nav". The names and goals of the sections are up to you but each of the following must be included in the page:
+This project should have a minimum of four sections, linked relatively using a global navigation menu. The names and goals of the sections are up to you but each of the following must be included in the site:
+
+### General Requirements
+- Primary global navigation bar
+  - Company name and logo aligned to the left side of the navigation bar.
+  - Navigation menu aligned to the right side of the naivation bar:
+    - Gallery
+    - Contact Us
+    - Login
+    - Register: must have a distinct look to differentiate it from the other links (e.g. make it look more like a button).
+- Footer
+  - Copyright information centered in the footer.
+  - Copyright symbol using either an icon font or HTML entity
 
 ### Home Page
+- Hero section
+  - `h1` heading
+  - `p` tagline
+- Long-form text
+  - Floated HTML image
 
 ### Gallery
+- Responsive image gallery
+- Semantic images using `figure` and `figcaption`
+- Relatively linked images (i.e. no Lorem Picsum!)
 
 ### Contact Us
+- Responsive content block: 3 Team cards
+  - Semantic images using `figure` and `figcaption`
+- Contact form using [Formspree](https://formspree.io/) or similar form submission service.
 
-### Login and Registration Form
-
-## General Requirements
+### Login and Registration Forms
+- Page: Login form
+  - username
+    - `input`: `type="email"`
+    - `required`
+  - password
+    - `input`: `type="password"`
+    - `required`
+- Page: Registration form
+  - username
+    - `input`: `type="email"`
+    - `required`
+  - password
+    - `input`: `type="password"`
+    - `required`
+    - minimum 10 characters
+  - confirm password
+    - `input`: `type="password"`
+    - `required`
+- Each page should have a sticky footer
 
 ## Submission Requirements
 - Push this assignment to a repo named `cpnt260-final`.
