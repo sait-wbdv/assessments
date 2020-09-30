@@ -6,27 +6,31 @@ This project should have a minimum of four sections, linked relatively using a g
 
 ### General Requirements
 - Primary global navigation bar
-  - Company name and logo aligned to the left side of the navigation bar.
+  - Company name and logo aligned to the left side of the navigation bar. Linked to home page.
   - Navigation menu aligned to the right side of the naivation bar:
     - Gallery
     - Contact Us
     - Login
-    - Register: must have a distinct look to differentiate it from the other links (e.g. make it look more like a button).
+    - Register: link must have a distinct look to differentiate it from the other links (e.g. make it look more like a button).
 - Footer
   - Copyright information centered in the footer.
+    - Name
+    - Date
   - Copyright symbol using either an icon font or HTML entity
 
 ### Home Page
 - Hero section
   - `h1` heading
   - `p` tagline
-- Long-form text
-  - Floated HTML image
+  - height: at least have the viewport
+- Long-form text; can be lorem ipsum but must be at least one page (viewport) of content.
 
 ### Gallery
 - Responsive image gallery
-- Semantic images using `figure` and `figcaption`
-- Relatively linked images (i.e. no Lorem Picsum!)
+  - single column on mobile
+  - three or more columns on desktop
+- Semantic images using `figure` and `figcaption` (i.e. a headings for name/title and `p` for profile description)
+- Relatively linked images (i.e. no Lorem Picsum; host images locally with the rest of the site files)
 
 ### Contact Us
 - Responsive content block: 3 Team cards
