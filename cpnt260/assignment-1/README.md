@@ -44,3 +44,5 @@ Further requirements are listed below.
 3. Heading and tagline
 4. Click-through Link
 5. General requirements
+
+See [Feedback Key](feedback-key.md)
