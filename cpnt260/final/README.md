@@ -22,19 +22,19 @@ This project should have a minimum of four sections, linked relatively using a g
 - Hero section
   - `h1` heading
   - `p` tagline
-  - height: at least have the viewport
+  - height: at least half the viewport
 - Long-form text; can be lorem ipsum but must be at least one page (viewport) of content.
 
 ### Gallery
 - Responsive image gallery
   - single column on mobile
   - three or more columns on desktop
-- Semantic images using `figure` and `figcaption` (i.e. a headings for name/title and `p` for profile description)
+- Semantic images using `figure` and `figcaption` 
 - Relatively linked images (i.e. no Lorem Picsum; host images locally with the rest of the site files)
 
 ### Contact Us
 - Responsive content block: 3 Team cards
-  - Semantic images using `figure` and `figcaption`
+  - Semantic images using `figure` and `figcaption` (i.e. a headings for name/title and `p` for profile description)
 - Contact form using [Formspree](https://formspree.io/) or similar form submission service.
 
 ### Login and Registration Forms
