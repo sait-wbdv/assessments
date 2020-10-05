@@ -1,4 +1,6 @@
 # Assignment 1: Click-through splash page
+See [Feedback Key](feedback-key.md)
+
 Scenario: A smoke shop is opening up in your neighbourhood and your friend knows that they're looking for someone to design their website. Knowing that your local bylaws mandate an "Over 18" splash page for smoke shops, you decide to design a demo page for the owner.
 
 ## Instructions
@@ -44,5 +46,3 @@ Further requirements are listed below.
 3. Heading and tagline
 4. Click-through Link
 5. General requirements
-
-See [Feedback Key](feedback-key.md)
