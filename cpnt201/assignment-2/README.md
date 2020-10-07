@@ -50,7 +50,7 @@ In addition to the above criteria:
 
 ## Submitting Your Assignment
 In order to receive a grade, you must:
-1. Deploy your pages to a GitHub Pages repository named "cpnt201-a2".
+1. Deploy your project (including images) to a GitHub Pages repository named "cpnt201-a2".
 2. Zip your project/repo and submit them to Brightspace.
 3. Include links to each GitHub repo as a comment with your Brightspace submission.
 
