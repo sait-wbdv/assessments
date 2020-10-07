@@ -4,16 +4,17 @@
 - Due: Sunday, September 20, 202
 - Weight: 25% of Final Course Mark
 
-## Build Tools
-### Assignment 2:
-- Due: TBA
-- Weight: 25% of Final Course Mark
-
 ## Raster Images
-### Assignment 3:
-- Due: TBA
+### Assignment 2: [Blog home page](assignment-2)
+- Due: Thursday October 15 @ 11:59pm
 - Weight: 25% of Final Course Mark
 
 ## Vector Images
+### Assignment 3: TBA
+- Due: TBA
+- Weight: 25% of Final Course Mark
+
+## Build Tools
+### Assignment 2:
 - Due: TBA
 - Weight: 25% of Final Course Mark
