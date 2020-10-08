@@ -6,7 +6,7 @@ This project should have a minimum of four sections, linked relatively using a g
 
 ### General Requirements
 - Primary global navigation bar
-  - Company name and logo aligned to the left side of the navigation bar. Linked to home page.
+  - Company name and logo (optional) aligned to the left side of the navigation bar. Linked to home page.
   - Navigation menu aligned to the right side of the naivation bar:
     - Gallery
     - Contact Us
@@ -34,7 +34,7 @@ This project should have a minimum of four sections, linked relatively using a g
 
 ### Contact Us
 - Responsive content block: 3 Team cards
-  - Semantic images using `figure` and `figcaption` (i.e. a headings for name/title and `p` for profile description)
+  - Semantic images such as `figure`/`figcaption` (i.e. and headings for name/title and `p` for profile description, etc).
 - Contact form using [Formspree](https://formspree.io/) or similar form submission service.
 
 ### Login and Registration Forms
