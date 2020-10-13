@@ -16,6 +16,6 @@
 - Weight: 15% of Final Course Mark
 
 ## Final Project: [5-page Static Website](final)
-- Due: Sunday, Oct 11
+- Due: Thursday, Oct 15
 - Weight: 35% of Final Course Mark
 
