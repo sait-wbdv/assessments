@@ -2,7 +2,7 @@
 Scenario: A client has a card mockup that they would like coded for their company's Team page. The card should ressemble [this mockup](screencap.png). 
 
 ## Card header
-The card header should be designed with the collowing specifications:
+The card header should be designed with the following specifications:
 - The image should be circular and not be larger than 50% of the width of the card.
 - The image boundary cannot touch the background image.
 - The background image should run from the top of the card to the vertical centre of the profile image.
