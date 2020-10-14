@@ -46,6 +46,7 @@ Please include a README with the following:
 - Assignment name;
 - A link to github repo;
 - A link to GH Pages website;
+- Attributions;
 - A short summary of the location and behaviour of the graphic to direct your instructor while marking.
 
 Include comments in the `svg` element itself to label which paths relate to the individual elements of the graphic (e.g. which path(s) makes up the bug in the [No Bugs](https://github.com/sait-wbdv/sample-code/blob/master/frontend/svg/no-bugs/images/no-bugs.svg) graphic built in class).
