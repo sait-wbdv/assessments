@@ -10,8 +10,8 @@
 - Weight: 25% of Final Course Mark
 
 ## Vector Images
-### Assignment 3: TBA
-- Due: TBA
+### Assignment 3: [SVG Graphic](assignment-3)
+- Due: Monday October 19 @ 11:59pm
 - Weight: 25% of Final Course Mark
 
 ## Build Tools
