@@ -32,6 +32,8 @@ Insert the optimized SVG graphic into a test page such that:
 - at least one property other than `fill` colour is used to enhance the design (such as `stroke`, `filter`, etc);
 - the size is large enough to properly differentiate between the colours of the design (e.g. don't use the graphic as a tiny social media icon). In other words, make it loud and proud.
 
+For the purposes of this assignment, the design of the page itself doesn't matter (beyond the non-white background). You can make it simple by placing the graphic in the middle of an empty page. BUT try your best to at least make the graphic presentable for a potential client demo.
+
 ### Multiple Colour Schemes
 Using a method of your choice, create a second colour scheme for the graphic. For example, you could do one of the following:
 - Use a media query to change the colour of the graphic on mobile/portrait screens;
