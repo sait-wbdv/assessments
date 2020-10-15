@@ -1,4 +1,6 @@
 # Assignment 2: Team card
+See [Feedback Key](feedback-key.md)
+
 Scenario: A client has a card mockup that they would like coded for their company's Team page. The card should ressemble [this mockup](screencap.png). 
 
 ## Card header
