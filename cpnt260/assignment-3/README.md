@@ -1,4 +1,6 @@
 # Assignment 3: Subscription form
+See [Feedback Key](feedback-key.md)
+
 Scenario: The potential client from Assignment 1 hired you based on your excellent splash page demo! They would like you to use that same design (or a new design if you desire) for a "Website Coming Soon" landing page inviting visitors to sign up for their newsletter.
 
 They mentioned the Over 18 button isn't needed right now so you can remove it and add the Subscribe form instead.

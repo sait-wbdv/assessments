@@ -1,4 +1,4 @@
-# Assignment 2: Feedback Key
+# Assignment 3: Feedback Key
 ## 1. Code Quality
 1. Validation
     1. Broken root HTML structure. See [Anatomy of an HTML document](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started#Anatomy_of_an_HTML_document)
@@ -6,7 +6,7 @@
     3. Minor-moderate syntax errors.
     4. External files are linked from within the `body` element. Convention is to `link` from the `head` element.
 2. [File structure](https://sait-wbdv.github.io/cheatsheets/naming-conventions/#file-naming-conventionsguidelines)
-    1. HTML page should be named `index.html`
+    1. HTML page should be named `index.html`.
     2. Embedded CSS should be in an external stylesheet located in a `css` directory.
     3. Your images should be in a dedicated `images` directory.
 3. Indentation and Organization
@@ -30,18 +30,24 @@
 
 ## 3. General
 1. Dropdown menu is malformed and inoperable. Menus are created with the `select` element and the items in the menu are created with `option` elements. See [`<select>: The HTML Select element`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select).
-2. The empty option in a menu (e.g. "Please choose an option") should have an empty `value` attribute.
+2. There should be an empty option in a menu (e.g. "Please choose an option") with an empty `value` attribute. No points deducted.
 3. `checkbox` is missing. See [`<input type="checkbox">`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/checkbox)
-4. In general, form input `value` should be descriptive. For example: instead of "b" as a menu option, use "breakfast".
+4. In general, form input `value` should be descriptive and lowercase with no spaces. For example: instead of "b" as a menu option, use "breakfast" (and not "Breakfast").
+5. `checkbox` has no `value` assigned.
+6. Email field should have a `type` of `email`. 
+7. Checkbox should have a `type` of `checkbox`, not `radio`. Radio buttons cannot be unchecked. 
 
 ## 4. Form Presentation
 1. Problems with form layout. Form controls should line up neatly with each other.
 2. Form controls are touching each other. More spacing required in your form.
 3. Fonts are not properly declared or are using defaults.
 4. Form not properly reset. `fieldset` border should be removed and, if a list is used for form controls, bullets should probably be removed.
+5. `br` used for layout purposes. If a form field needs to be on a new line, try setting `display="block"` for `input` elements or use Flexbox.
+6. Text not readable against background. Try adding a semi-transparent background to the form container if background images are used.
+
 
 ## 5. Form Accessibility
 1. Redundant `fieldset` and `legend` elements. You generally only need one set of `fieldset` and `legend` for general instructions for the entire form (e.g. "Please fill out our form"). If a `label` gives adequate instructions for a screen reader, additional `fieldset` and `legend` elements are not needed.
-2. Inoperable for labels. The `for` attribute should match the `id` of its companion form control. See [`<label>` form element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
+2. Inoperable form labels due to mismatched `for` attributes. The `for` attribute should match the `id` of its companion form control. See [`<label>` form element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
 3. Text contrast ratio is too low.
 4. Make text fields nice and big for users with alternate input devices. For example, use padding or have them stretch into a large flex item. Font-size should be increased for forms.
