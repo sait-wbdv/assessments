@@ -2,15 +2,15 @@
 **Note**: The order of Assignment 3-6 may still change or be merged into larger assignments.
 
 ## Frontend Javascript
-### Free Code Camp Exercises
+### [Free Code Camp Exercises](exercises)
 - Due: Friday, Oct 23
 - Weight: 15% of Final Course Mark
 
-### Assignment 1: Codepen `init()`
+### Assignment 1: [Codepen `init()`](assignment-1)
 - Due: Monday, Oct 26
 - Weight: 10% of Final Course Mark
 
-### Assignment 2: Modal CSS toggle
+### Assignment 2: Dynamic animals gallery
 - Due: Monday, Nov 2
 - Weight: 10% of Final Course Mark
 
