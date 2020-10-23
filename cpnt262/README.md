@@ -9,7 +9,7 @@
 - Due: Monday, Oct 26
 - Weight: 10% of Final Course Mark
 
-## Assignment 2: Dynamic animals gallery
+## Assignment 2: [Dynamic animals gallery](assignment-2)
 - Due: Friday, Oct 30
 - Weight: 10% of Final Course Mark
 
