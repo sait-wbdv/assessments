@@ -15,6 +15,6 @@
 - Weight: 25% of Final Course Mark
 
 ## Build Tools
-### Assignment 2:
-- Due: TBA
+### Assignment 4: TBA
+- Due: Monday, Nov 2
 - Weight: 25% of Final Course Mark
