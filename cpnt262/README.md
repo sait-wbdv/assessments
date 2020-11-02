@@ -13,7 +13,7 @@
 - Due: Friday, Oct 30
 - Weight: 10% of Final Course Mark
 
-## Assignment 3: Simple Static Express website
+## Assignment 3: [Deployed Static Express Website](assignment-3)
 - Due: Friday, Nov 6
 - Weight: 10% of Final Course Mark
 
