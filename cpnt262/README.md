@@ -17,7 +17,7 @@
 - Due: Friday, Nov 6
 - Weight: 10% of Final Course Mark
 
-## Assignment 4: Express Gallery Website
+## Assignment 4: [Express Gallery Website](assignment-4)
 - Due: Wednesday, Nov 11
 - Weight: 20% of Final Course Mark
 
