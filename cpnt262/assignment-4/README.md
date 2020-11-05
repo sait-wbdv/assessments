@@ -54,7 +54,7 @@ Toward that goal, in this assignment you will:
   - set view engine to your chosen, loaded, package (EJS, Pug, etc)
 - `view/partials`:
   - Move repeating page elements to template partials;
-  - Minimum requirement: `header.ejs` and `footer.ejs` to each be used included in at least two pages.
+  - Minimum requirement: `header.ejs`, `nav.ejs` and `footer.ejs` to each be used included in at least two pages.
 - `view/pages`
   - 3 root templates listed above;
   - Each page must output the following as injected template variables:
