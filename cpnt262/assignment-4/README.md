@@ -1,4 +1,4 @@
-# Assignment 4: Express Website
+# Assignment 4: Express Gallery Website
 ## Scenario
 In the assignment, you'll create light-weight gallery website for a potential client of your choice (the client can be you). It will have a home page, subscribe page and gallery.
 
@@ -72,7 +72,7 @@ Toward that goal, in this assignment you will:
   - Using `response.render()` send the rendered HTML to the client.
 - Internal pages should highlight the current page in the navigation.
 
-### Custom module
+### Custom gallery module
 Create an image gallery that matches the theme of your website. You may adapt the image array used for Assignment 2, but you _cannot_ use the same images; make your own array that matches the theme of your website.
 - Create a custom module that exports an array of 5-10 objects that contain the following fields:
     - `title`
@@ -84,7 +84,7 @@ Create an image gallery that matches the theme of your website. You may adapt th
 - You _do not_ have to link to your images locally (but you can if you have the images available). You may use Lorem Picsum or some other service to use placeholder images.
 - Only the text content needs to match the theme of your website. Images can be considered placeholders. The goal of this assignment is the use of an array of objects, not the processing of images.
 
-### Gallery API
+### Gallery JSON API
 - Create the following JSON endpoint in `server.js`:
     
     ```
