@@ -1,4 +1,4 @@
-# Assignment 4: Express Gallery Website
+# Assignment 4: Express Website
 ## Scenario
 In the assignment, you'll create light-weight gallery website for a potential client of your choice (the client can be you). It will have a home page, subscribe page and gallery.
 
@@ -27,7 +27,7 @@ Toward that goal, in this assignment you will:
     --- js
     --- images
     - views
-    --- partials
+    --- partials7
     ----- header.ejs
     ----- nav.ejs
     ----- footer.ejs
@@ -72,11 +72,40 @@ Toward that goal, in this assignment you will:
   - Using `response.render()` send the rendered HTML to the client.
 - Internal pages should highlight the current page in the navigation.
 
-### Asynchronous gallery `fetch()`
+### Custom module
+Create an image gallery that matches the theme of your website. You may adapt the image array used for Assignment 2, but you _cannot_ use the same images; make your own array that matches the theme of your website.
+- Create a custom module that exports an array of 5-10 objects that contain the following fields:
+    - `title`
+    - `description`
+    - `credit`
+    - `image_path` (Lorem Picsum link by `id` are acceptable)
+- Import this array into `server.js` using `require()`.
+- For simplicity, this gallery array should closely match the one you were provided for Assignment 2.
+- You _do not_ have to link to your images locally (but you can if you have the images available). You may use Lorem Picsum or some other service to use placeholder images.
+- Only the text content needs to match the theme of your website. Images can be considered placeholders. The goal of this assignment is the use of an array of objects, not the processing of images.
 
-### Custom gallery module
+### Gallery API
+- Create the following JSON endpoint in `server.js`:
+    
+    ```
+    GET /api/v0/gallery
+    ```
 
-### Gallery JSON API
+- It should return a JSON response to the client that matches the array exported from your custom module.
+
+### Asynchronous `fetch()`
+- From `client.js`, request the JSON array from your new JSON endpoint using `fetch()`.
+- Using the JSON response, `.forEach()` and `.innerHTML`, create an HTML gallery that matches the `figure`/`figcaption` card structure referenced in Assignment 2:
+
+    ```html
+    <figure class="card">
+      <img src="[relative link to image]" alt="[image description]">
+      <figcaption>[Image description with photo credit]</figcaption>
+    </figure>
+    ```
+- The gallery should be responsive:
+  - single column on mobile
+  - three or more columns on desktop
 
 ### Deployment to Heroku
 - Create an Heroku App.
