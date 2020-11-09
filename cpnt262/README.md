@@ -18,11 +18,11 @@
 - Weight: 10% of Final Course Mark
 
 ## Assignment 4: [Express Gallery Website](assignment-4)
-- Due: Wednesday, Nov 11
+- Due: Friday, Nov 13
 - Weight: 20% of Final Course Mark
 
 ## Assignment 5: Gallery Mongoose upgrade
-- Due: Friday, Nov 13
+- Due: Monday, Nov 16
 - Weight: 10% of Final Course Mark
 
 ## Final Project
