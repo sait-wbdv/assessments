@@ -119,8 +119,7 @@ Create an image gallery that matches the theme of your website. You may adapt th
   - Author name;
   - Links to:
     - your GH repo;
-    - your GH Pages demo;
-    - the codepen you chose for this assignment.
+    - your deployed Heroku domain;
   - Any comments that may help squeeze marks out of your instructor (maybe give him hints on where to look for the requirements above);
   - Attributions for any code or assets that are not your own.
 - Use best practices with file/directory names, commenting and indentation.
