@@ -12,7 +12,9 @@ For the purposes of this assignment, your application will be returning JSON obj
 
     ```
     - seeds
+    --- objects.js
     - models
+    --- object.js
     - import.js
     - package.json
     - server.js
