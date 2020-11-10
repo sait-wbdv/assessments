@@ -28,7 +28,7 @@ Example Responsibilities:
 - Avery
 - Brett
 - Mike
-- Offy
+- Offanel
 
 ## Team 4
 - Ariel
