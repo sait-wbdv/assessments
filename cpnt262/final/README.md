@@ -1,4 +1,4 @@
-# Node Final - Deployed Travel Experts Website
+# Node Final - Deployed Product/Services Website
 ## Details
 In this assignment, your group will deploy a multi-page, database-driven Product website using Express, EJS (or similar view engine) and Mongoose. It will be deployed to Heroku and MongoDB Atlas.
 
@@ -76,7 +76,7 @@ Create the following JSON endpoints to serve your frontend views:
 2. Subscribers list
   - `POST /api/v0/subscribers`
   - `GET /api/v0/subscribers`
-3. Team members (if in group of 4)
+3. Team members (if in a group of 4)
   - `GET /api/v0/members`
 
 ### Frontend `fetch()` implementation
