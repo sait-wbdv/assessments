@@ -71,13 +71,13 @@ Create HTML endpoint handlers to render and serve the following pages using `ejs
 ### JSON Endpoints
 Create the following JSON endpoints to serve your frontend views:
 1. Products/Services gallery
-  - `GET /api/v0/gallery`
-  - Note: the `GET /gallery/:id` endpoint should be rendered server-side with a view.
+    - `GET /api/v0/gallery`
+    - Note: the `GET /gallery/:id` endpoint should be rendered server-side with a view.
 2. Subscribers list
-  - `POST /api/v0/subscribers`
-  - `GET /api/v0/subscribers`
+    - `POST /api/v0/subscribers`
+    - `GET /api/v0/subscribers`
 3. Team members (if in a group of 4)
-  - `GET /api/v0/members`
+    - `GET /api/v0/members`
 
 ### Frontend `fetch()` implementation
 Create appropriate frontend `fetch()` requests for the following JSON endpoints defined above:
