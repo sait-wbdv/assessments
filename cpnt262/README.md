@@ -21,10 +21,10 @@
 - Due: Friday, Nov 13
 - Weight: 20% of Final Course Mark
 
-## Assignment 5: Gallery Mongoose upgrade
+## Assignment 5: [Gallery Mongoose upgrade](assignment-5)
 - Due: Monday, Nov 16
 - Weight: 10% of Final Course Mark
 
-## Final Project
+## [Final Project](final)
 - Due: Friday, Nov 20
 - Weight: 25% of Final Course Mark
