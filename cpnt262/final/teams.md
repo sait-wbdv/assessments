@@ -17,6 +17,7 @@ Example Responsibilities:
 - Lynn
 - Nhat
 - Patrick
+- Eric
 
 ## Team 2
 - Abdullah
