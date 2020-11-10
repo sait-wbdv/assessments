@@ -1,4 +1,6 @@
 # Node Final - Deployed Product/Services Website
+[Team Assignments](teams.md)
+
 ## Details
 In this assignment, your group will deploy a multi-page, database-driven Product website using Express, EJS (or similar view engine) and Mongoose. It will be deployed to Heroku and MongoDB Atlas.
 
@@ -51,6 +53,7 @@ Create HTML endpoint handlers to render and serve the following pages using `ejs
     - `id`
     - `name` or `title`
     - `description`
+    - `imagePath`
   - Built client-side with a `fetch()` call to a JSON endpoint (listed below)
 - `GET /gallery/:id` (`:id` could be some other unique identifier)
     - Displays a single product/service from the above list. This should be rendered server-side with `ejs`.
@@ -74,7 +77,7 @@ Create the following JSON endpoints to serve your frontend views:
     - `GET /api/v0/gallery`
     - Note: the `GET /gallery/:id` endpoint should be rendered server-side with a view.
 2. Subscribers list
-    - `POST /api/v0/subscribers`
+    - `POST /subscribers`
     - `GET /api/v0/subscribers`
 3. Team members (if in a group of 4)
     - `GET /api/v0/members`
@@ -116,6 +119,9 @@ In order to receive a grade, you must:
   - Any comments that may help squeeze marks out of your instructor (maybe give him hints on where to look for the requirements above);
   - Attributions for any code or assets that are not your own.
 - Use best practices with file/directory names, commenting, code quality and indentation.
+
+## Individual Evaluations
+This assignment will be marked as a group assignment. See [CPNT 201 Assignment 4](../../cpnt201/assignment-4) for details on the Individual component of this assignment.
 
 ## Submitting Your Assignment
 In order to receive a grade, you must:
