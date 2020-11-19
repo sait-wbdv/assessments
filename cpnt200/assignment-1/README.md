@@ -36,13 +36,13 @@ Note: If your home page has a hero section, you may choose to not include your `
 Create the following site-wide variables and store them in a `includes/_config.php` file:
 - `$site_title` - string containing (you guessed it) your site title to be included in your `<title>` element.
 - `$site_description` - string describing your site in 50–160 characters to be included in the `<meta name="description">` information in the `<head>` (see below).
-- `$site_owner` - string containing the site owner to be included in the copyright statment in the `<footer>`.
+- `$site_owner` - string containing the site owner to be included in the copyright statement in the `<footer>`.
 
 ### 2. Template Partials
 Separate repeating page elements into following template partials:
 1. `includes/head.php` - the meta information of each page. This partial should incorporate the following site-wide variables:
-  - `<title>`: contains the `$site_title` and `$page_title` (see below), separated by a hyphen.
-  - `<meta name="description" content="[description]">`: contains the `$site_description` created above.
+    - `<title>`: contains the `$site_title` and `$page_title` (see below), separated by a hyphen.
+    - `<meta name="description" content="[description]">`: contains the `$site_description` created above.
 2. `includes/header.php` - the `<header>` (and possibly `<nav>`, depending on your design) that includes `$page_title` (see below), preferrably in an `<h1>` element.
 3. `includes/footer.php` - the `<footer>` that includes a dynamic copyright statement (see below).
 
