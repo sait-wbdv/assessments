@@ -1,5 +1,5 @@
 # CPNT 200: CMS Fundamentals
-## Assignment 1: Static Website with PHP Includes
+## Assignment 1: [Static Website with PHP Includes](assignment-1)
 - Due: Monday, Nov 23
 - Weight: 20% of Final Course Mark
 
