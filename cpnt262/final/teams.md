@@ -17,7 +17,6 @@ Example Responsibilities:
 - Lynn
 - Nhat
 - Patrick
-- Eric
 
 ## Team 2
 - Abdullah
@@ -26,7 +25,6 @@ Example Responsibilities:
 - Sanaz
 
 ## Team 3
-- Avery
 - Brett
 - Mike
 - Offanel
