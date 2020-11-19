@@ -32,13 +32,13 @@ Note: If your home page has a hero section, you may choose to not include your `
     ```
 
 ## Instructions
-### Project config file
+### 1. Project config file
 Create the following site-wide variables and store them in a `includes/_config.php` file:
 - `$site_title` - string containing (you guessed it) your site title to be included in your `<title>` element.
 - `$site_description` - string describing your site in 50–160 characters to be included in the `<meta name="description">` information in the `<head>` (see below).
 - `$site_owner` - string containing the site owner to be included in the copyright statment in the `<footer>`.
 
-### Template Partials
+### 2. Template Partials
 Separate repeating page elements into following template partials:
 1. `includes/head.php` - the meta information of each page. This partial should incorporate the following site-wide variables:
   - `<title>`: contains the `$site_title` and `$page_title` (see below), separated by a hyphen.
@@ -46,20 +46,20 @@ Separate repeating page elements into following template partials:
 2. `includes/header.php` - the `<header>` (and possibly `<nav>`, depending on your design) that includes `$page_title` (see below), preferrably in an `<h1>` element.
 3. `includes/footer.php` - the `<footer>` that includes a dynamic copyright statement (see below).
 
-### Dynamic copyright statement
+### 3. Dynamic copyright statement
 Create a dynamic copyright statement that incorporates the following format `&copy; [year] [site-owner]`:
 1. `[year]`: The current year, generated using the `date()` function.
 2. `[site-owner]`: The site-wide `$site_owner` variable created previously.
 
 The final copyright statement should look similar to "&copy; 2020 Tony".
 
-### Page setup
+### 4. Page setup
 For each page of the site:
 1. Include `_config.php` above the `<!DOCTYPE html>`;
 2. Define a `$page_title` variable above the `<!DOCTYPE html>`;
 3. Include each of the template partials defined in the previous section.
 
-### Project documentation and code quality
+### 5. Project documentation and code quality
 - Include a `README.md` in your project that contains the following information:
   - Course title;
   - Author name;
@@ -77,8 +77,8 @@ In order to receive a grade, you must:
 
 ## Marking Rubric
 This assignment will be marked out of 20 points. 4 points will be given for each of the following, based on the requirements above:
-- Project config file
-- Template Partials
-- Dynamic copyright statement
-- Page setup
-- Documentation and code quality
+1. Project config file
+2. Template Partials
+3. Dynamic copyright statement
+4. Page setup
+5. Documentation and code quality
