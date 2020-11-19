@@ -1,5 +1,4 @@
 # Assignment 1: Static Website with PHP Includes
-## Scenario
 For this assignment, choose a static 4-5 page website of your choice. For example:
 - a past assignment
 - a personal project
