@@ -3,7 +3,7 @@
 - Due: Monday, Nov 23
 - Weight: 20% of Final Course Mark
 
-## Assignment 2: MySQL Gallery
+## Assignment 2: [Customer Admin](assignment-2)
 - Due: Friday, Nov 27
 - Weight: 30% of Final Course Mark
 
