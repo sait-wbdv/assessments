@@ -35,7 +35,7 @@ This assignment will assume the use of the following database, named `aviano-db`
   - Attributions for any code or assets that are not your own.
 - Use best practices with file/directory names, commenting and indentation.
 
-### 2. Project setup and error.php
+### 2. Project setup and `error.php`
 1. Create a connection to the database using `mysqli_connect()` and store it in a `includes/config.php` file. For the purposes of this assigment, please use the following connection details:
     - Host: `localhost`
     - Username: `root`
