@@ -7,6 +7,6 @@
 - Due: Friday, Nov 27
 - Weight: 30% of Final Course Mark
 
-## Final Group Project: Restaurant Wordpress Website
-- Due: Monday, Nov 30
+## Final Group Project: Wordpress Law Firm Website
+- Due: Wednesday, Dec 2
 - Weight: 50% of Final Course Mark
