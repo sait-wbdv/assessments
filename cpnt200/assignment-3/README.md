@@ -77,7 +77,9 @@ Each group member will evaluate their teammates out of 10. This will be averaged
 - Final website must be deployed to Flywheel (see Submission Requirements below).
 
 ## Submission Instructions
-- Submit your deployed Flywheel link to Brightspace;
+- Submit the following to Brightspace as a text submission:
+  - your deployed Flywheel link
+  - the username/password for the deployed demo site.
 - Create an admin account in the WP Admin panel:
   - username: instructor
   - password: password
