@@ -10,8 +10,12 @@ The CG Law LLP firm has contracted your team to build a 3-page Wordpress website
 - Install WordPress plugins:
   - Contact Form 7
   - Rank Math
-  - Google Maps (if necessary; some themes include this)
 - Create an admin account for each team member
+- Create an admin account in the WP Admin panel:
+  - username: instructor
+  - password: password
+- Add your instructor as a collaborator to your Flywheel site:
+  - Email: acidtone@tonygrimes.com
   
 ### 2. Home page: Practice Areas
 1. Setup
@@ -42,10 +46,23 @@ The CG Law LLP firm has contracted your team to build a 3-page Wordpress website
 1. Page - Contact Us 
     - Integrate a Contact Form using Contact Form 7
         - Full Name, email address and message.
-    - Include address information with Google Map pin (draggable, not an image)
+    - Include address information with Google Map pin using a Rank Math shortcode.
 
 ### 4. Rank Math Configuration
-
+1. Configure Rank Math
+    1. Global Meta: use defaults
+    2. Local SEO: 
+        - Choose an address for your law firm, such as:
+            - the home address of one of your members
+            - an address of an empty lot in Calgary (use Google Maps to find the postal code)
+            - _do not_ use a fake address, otherwise the Google Map won't display a correct location
+        - FYI:
+            - Locality -> City
+            - Region -> Province
+        - About page -> "About Our Firm"
+        - Contact page -> "Contact Us"
+    3. Home page: Create a home page meta description that is not lorem ipsum
+2. Using a Rank Math Local SEO shortcode, include address and map information on the "Contact Us" page.
 
 ### 5. Group Evaluation
 Assign the key roles and responsibilities for each group member in delivering the Project. After each entry write a short summary defining their role and what their responsibilities are in the project.
@@ -60,13 +77,12 @@ Each group member will evaluate their teammates out of 10. This will be averaged
 - Final website must be deployed to Flywheel (see Submission Requirements below).
 
 ## Submission Instructions
-Upload the following project files to Brightspace
+- Submit your deployed Flywheel link to Brightspace;
 - Create an admin account in the WP Admin panel:
   - username: instructor
   - password: password
-- Zipped wordpress files
-- phpMyAdmin database export
-and submit your repo and deployed website urls as a comment.
+- Add your instructor as a collaborator to your Flywheel site:
+  - Email: acidtone@tonygrimes.com
 
 ## Deliverables and Rubric
 This assignment will be marked out of 50 points. 10 points will be given for each of the following:
