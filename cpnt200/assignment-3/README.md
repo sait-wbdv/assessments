@@ -1,4 +1,6 @@
-# Assignment 3: Wordpress Law Firm Website
+# Assignment 3 Group Project: Wordpress Law Firm Website
+[Team Assignments](teams.md)
+
 ## Scenario
 The CG Law LLP firm has contracted your team to build a 3-page Wordpress website that they can edit themselves.
 
