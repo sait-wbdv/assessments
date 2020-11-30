@@ -1,4 +1,4 @@
-# Assignment 1 - Community of Practice Micro-essay
+# Assignment 3 - Community of Practice Micro-essay
 Find an individual or organization that is using open social tools (including Youtube, Twitch, etc) to _teach_ a skill or craft that you would like to learn or could teach yourself.
 
 Note: A community of practice _actively_ teaches a craft. A gamer that only streams their games is not actively teaching unless they have something that resembles lessons, like [Day 9](https://day9.tv/). 
