@@ -5,7 +5,7 @@ Note: A community of practice _actively_ teaches a craft. A gamer that only stre
 
 ## Micro-essay
 In 280 _characters_ (**not words**), summarize their:
-1. Audience: What are they teaching?
+1. Audience: What are they teaching? What are the audience goals?
 2. Media: How are they teaching it? What online social tools are they using to deliver their main content (Youtube, podcast, IG, Facebook)?
 3. Differentiation: What are they doing that distinguishes them from other similar content?
 
