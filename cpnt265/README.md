@@ -1,5 +1,5 @@
 # CPNT 265: The Business of the Web
-## [Assignment 1: E-Commerce Business Justification](https://github.com/sait-wbdv/assessments/tree/master/cpnt265/assignment-1)
+## [Assignment 1: E-Business Justification](https://github.com/sait-wbdv/assessments/tree/master/cpnt265/assignment-1)
 - Due: Thursday, Dec 10 @ 8pm 
 - Weight: 35%
 
