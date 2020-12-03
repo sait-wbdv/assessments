@@ -7,6 +7,7 @@ You decide to fix an Open Issue in an open-source repo and submit a Pull Request
 ### Pull Request Directories
 - [First Timers Only](https://www.firsttimersonly.com/)
 - [Good First Issue](https://goodfirstissue.dev/)
+- [Another Good First Issue](https://goodfirstissues.com/)
 - [Code Triage](https://www.codetriage.com/)
 - [Pull Request Roulette](http://www.pullrequestroulette.com/)
 - [Contrib](https://gauger.io/contrib/#/language/javascript) (JavaScript)
