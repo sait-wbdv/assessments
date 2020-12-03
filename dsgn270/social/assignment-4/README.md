@@ -7,11 +7,15 @@ You decide to fix an Open Issue in an open-source repo and submit a Pull Request
 ### Pull Request Directories
 - [First Timers Only](https://www.firsttimersonly.com/)
 - [Good First Issue](https://goodfirstissue.dev/)
+- [Code Triage](https://www.codetriage.com/)
+- [Pull Request Roulette](http://www.pullrequestroulette.com/)
+- [Contrib](https://gauger.io/contrib/#/language/javascript) (JavaScript)
 - React GitHub
   - [Good First Issues](https://github.com/facebook/react/labels/good%20first%20issue)
   - [Difficulty: Starter](https://github.com/facebook/react/labels/Difficulty%3A%20starter)
   - [Difficulty: Medium](https://github.com/facebook/react/labels/Difficulty%3A%20medium)
   - [Difficulty: Challenging](https://github.com/facebook/react/labels/Difficulty%3A%20challenging)
+
 
 ## Marking Rubric
 This assignment will be marked out of 25 points.
