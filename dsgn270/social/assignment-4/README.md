@@ -11,6 +11,7 @@ You decide to fix an Open Issue in an open-source repo and submit a Pull Request
 - [Code Triage](https://www.codetriage.com/)
 - [Pull Request Roulette](http://www.pullrequestroulette.com/)
 - [Contrib](https://gauger.io/contrib/#/language/javascript) (JavaScript)
+- [Up for Grabs](https://up-for-grabs.net/)
 - React GitHub
   - [Good First Issues](https://github.com/facebook/react/labels/good%20first%20issue)
   - [Difficulty: Starter](https://github.com/facebook/react/labels/Difficulty%3A%20starter)
