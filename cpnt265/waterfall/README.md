@@ -7,6 +7,20 @@
 - Due: Friday, Dec 11
 - Weight: 35%
 
-## [Assignment 3: Deployed Portfolio Project(s)](https://github.com/sait-wbdv/assessments/tree/master/cpnt265/waterfall/assignment-3)
-- Due: Friday, Dec 18 @ 9am
-- Weight: 30%
+### Team 1
+- Jina
+- Vincent
+- Nana
+- Sanaz
+
+## Team 2
+- Kevin
+- Jayden
+- Ivan
+- Jaime
+
+## Team 3
+- Ariel
+- Lynn
+- Abdullah
+- Simeon

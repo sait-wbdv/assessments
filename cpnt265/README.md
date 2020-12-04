@@ -13,3 +13,7 @@ Important: This is an opt-in option to the default assignments. You must explici
 
 ## Phase 2: Portfolio Presentation
 Same Assignment 3 for everybody.
+
+### [Assignment 3: Deployed Portfolio Project(s)](https://github.com/sait-wbdv/assessments/tree/master/cpnt265/waterfall/assignment-3)
+- Due: Friday, Dec 18 @ 9am
+- Weight: 30%
