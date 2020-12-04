@@ -7,19 +7,20 @@
 - Due: Friday, Dec 11
 - Weight: 35%
 
+## Teams
 ### Team 1
 - Jina
 - Vincent
 - Nana
 - Sanaz
 
-## Team 2
+### Team 2
 - Kevin
 - Jayden
 - Ivan
 - Jaime
 
-## Team 3
+### Team 3
 - Ariel
 - Lynn
 - Abdullah
