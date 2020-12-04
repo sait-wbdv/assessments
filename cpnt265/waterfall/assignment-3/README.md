@@ -2,6 +2,19 @@
 ## Purpose
 The purpose of this assignment is to create your online presence and portfolio.
 
+## Portfolio Ideas
+- Simple portfolio website
+  - Great if you already have a portfolio. Example: graphic design, music, photography, etc.
+- Build something off a public API
+  - Example: Pokedex, COVID data, etc
+- Build your own API with Heroku/Atlas/whatevs
+- Build something using a frontend framework
+  - [chart.js](https://www.chartjs.org/)
+  - [Greensock](https://greensock.com/) (animating SVGs)
+  - [Google Maps API](https://developers.google.com/maps/documentation) or [Leaflet](https://leafletjs.com/)
+  - [Matter.js](https://brm.io/matter-js/)
+
+
 ## Portfolio Advice from our recent Industry Advisory:
 Potential employers are interested in your perspective - how you think, how your mind works
 - Do out-of-class research on a framework/project
