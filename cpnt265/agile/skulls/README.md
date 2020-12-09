@@ -7,9 +7,6 @@ Skulls to be awarded for presentations. 4 Skulls max for **Stage**, unless earne
   - First stage appearance: 2 Skulls;
   - Second stage appearance: 1 Skull;
   - 3 Skulls max.
-- Screen Pilot: When operating a screenshare during a presentation for longer than 3 minutes.
-  - One skull each
-  - 2 skulls max.
 
 ## Friendly Neighbour
 Skulls to be awarded when submitting making the world a better place for other coders.
