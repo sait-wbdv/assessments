@@ -16,7 +16,7 @@ Skulls to be awarded when submitting making the world a better place for other c
 - Pull Requests
   - One Skull for each PR;
   - 2 Skulls max.
-
+- Lean Canvas contribution: take part in (and add value to) a Lean Canvas exercise for another classmate.
 
 ## Devops
 Skulls to be awarded when dealing with Git, GH, DNS, and tools.
@@ -26,3 +26,20 @@ Skulls to be awarded when dealing with Git, GH, DNS, and tools.
 - Flywheel Extension
   - One Skull
   - open a chat session with Flywheel support and ask for a trial extension
+- Tech Support!!!
+  - Help out classmates with a git conflict or some other terrifying tech problem.
+
+## Delegation
+- Create a "ticket" for another classmate to complete.
+  - What are the assumptions/prerequisites? IOW, what skills are required?
+  - What's the expected output?
+  - What's the projected scope of the work? How many hours?
+  - When does it need to be completed?
+
+## Assets
+- Image resizing/optimizing
+- Image research: finding openly licensed images that fit a defined category.
+
+## Data entry
+- Converting data formats
+  - For example, someone might need a CSV converted to JSON.
