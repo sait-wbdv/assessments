@@ -2,13 +2,11 @@
 
 Build two splash pages (no content that requires scrolling)
 
-## Page 1 that contains:
-- a logo (can be generic font icon or similar graphic)
+## General
+
+## Registration page
+Create a 
 - login fields: username, password, submit inputs
-  - action -> '#'
-  - method -> post
-  - overlapping elements (either using grid or absolute/relative positioning)
-  - a 'Register' link (that looks like a button) to Page 2
 
 ## Page 2 that contains:
 - registration form (all required unless otherwise specified)

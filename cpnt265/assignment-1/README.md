@@ -1,4 +1,4 @@
-# Assignment 1: E-commerce Business Justification
+# Assignment 1: Business Justification
 ## Purpose
 The purpose of this assignment is to research and analyze the options available for an e-Commerce application for a small business and develop a business justification document for the application. This project will be completed in groups of 3-4 and handed in as a PDF proposal to the hypothetical client (or investors if you've chosen your own startup).
 

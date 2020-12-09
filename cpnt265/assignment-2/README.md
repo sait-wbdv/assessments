@@ -1,4 +1,4 @@
-# E-business Proof-of-Concept
+# E-business Minimal Viable Product
 ## Purpose
 The purpose of this assignment is to set up and configure the e-business site you proposed in Assignment 1. You will continue working in your groups.
 

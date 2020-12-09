@@ -1,9 +1,9 @@
 # CPNT 265: The Business of the Web
-## [Assignment 1: E-Business Justification](https://github.com/sait-wbdv/assessments/tree/master/cpnt265/assignment-1) (Group Project)
+## [Assignment 1: Business Justification](https://github.com/sait-wbdv/assessments/tree/master/cpnt265/assignment-1) (Group Project)
 - Due: Thursday, Dec 10 @ 8pm 
 - Weight: 35%
 
-## [Assignment 2: E-business Proof-of-Concept](https://github.com/sait-wbdv/assessments/tree/master/cpnt265/assignment-2) (Group Presentation)
+## [Assignment 2: Minimal Viable Product](https://github.com/sait-wbdv/assessments/tree/master/cpnt265/assignment-2) (Group Presentation)
 - Due: Friday, Dec 11
 - Weight: 35%
 
