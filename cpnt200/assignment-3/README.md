@@ -7,7 +7,13 @@ The CG Law LLP firm has contracted your team to build a 3-page Wordpress website
 ## Instructions
 ### 1. General
 - Create a global navigation menu:
-  - that lists the three Pages listed below;
+  - that lists:
+    - Home page - details below;
+    - About Our Firm - details below;
+    - Contact Us
+      - Integrate a Contact Form using Contact Form 7
+          - Full Name, email address and message.
+      - Include address information with Google Map pin using a Rank Math shortcode (see below).
   - denotes the current page the user is on.
 - Install WordPress plugins:
   - Contact Form 7
@@ -43,12 +49,6 @@ The CG Law LLP firm has contracted your team to build a 3-page Wordpress website
     - List the Posts added to the Lawyer Category on this page
     - Post navigation should be removed (either from the template or using CSS)
 3. Each team member should be the author of one Lawyer Profile.
-
-### 4. Contact Us
-1. Page - Contact Us 
-    - Integrate a Contact Form using Contact Form 7
-        - Full Name, email address and message.
-    - Include address information with Google Map pin using a Rank Math shortcode.
 
 ### 4. Rank Math Configuration
 1. Configure Rank Math

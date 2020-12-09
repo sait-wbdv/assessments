@@ -1,12 +1,18 @@
-# CPNT 265: The Business of the Web
-## [Assignment 1: Business Justification](https://github.com/sait-wbdv/assessments/tree/master/cpnt265/assignment-1) (Group Project)
-- Due: Thursday, Dec 10 @ 8pm 
-- Weight: 35%
+# CPNT 265 Assessment Streams
+## Phase 1: Course Project
+70% of Final CPNT 265 Mark
 
-## [Assignment 2: Minimal Viable Product](https://github.com/sait-wbdv/assessments/tree/master/cpnt265/assignment-2) (Group Presentation)
-- Due: Friday, Dec 11
-- Weight: 35%
+### Stream 1: Waterfall E-commerce Project
+Assignments 1 and 2 as defined in the [Waterfall Schedule](waterfall).
+- If you do not opt-in to Stream 2 below, you will be placed into a Waterfall group.
 
-## [Assignment 3: Deployed Portfolio Project(s)](https://github.com/sait-wbdv/assessments/tree/master/cpnt265/assignment-3)
+### Stream 2: Agile Bounty Program (alpha)
+Important: This is an opt-in option to the default assignments. You must explicitly volunteer for the [Bounty Program](agile) as an alternative to completing Assignments 1 and 2 above.
+- Skulls and Bounties will not be scored on the Leaderboard unless you explicitly opt-in.
+
+## Phase 2: Portfolio Presentation
+Same Assignment 3 for everybody.
+
+### [Assignment 3: Deployed Portfolio Project(s)](https://github.com/sait-wbdv/assessments/tree/master/cpnt265/waterfall/assignment-3)
 - Due: Friday, Dec 18 @ 9am
 - Weight: 30%

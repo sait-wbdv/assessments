@@ -13,19 +13,19 @@ Design, configure and deploy an online e-business site for the small business yo
     - Patreon, Ebay, other escrow platform
 3. If available, set up the tax regions so that Alberta shoppers do not pay any provincial sales tax, but all Canadian shoppers pay the GST. For the United States and Mexico, there will be no sales tax added.
 4. Physical delivery, if applicable
-  - Clean the demo products out of the installation. 
-  - Shipping locations: The business wants to be able to ship across Canada, the United States and Mexico, 
-  - Shipping options - flat rate for each: 
-    - providing same-day service, 
-    - 1-2 week, and 
-    - 3-6 week delivery.
-  - Configure drop-shipping, if applicable
+    - Clean the demo products out of the installation. 
+    - Shipping locations: The business wants to be able to ship across Canada, the United States and Mexico, 
+    - Shipping options - flat rate for each: 
+        - providing same-day service, 
+        - 1-2 week, and 
+        - 3-6 week delivery.
+    - Configure drop-shipping, if applicable
 5. Setup up currency conversion for each of the destination countries, if applicable.
 6. Additional Configuration:
-  - Set the store up with a custom logo.
-  - Alter the colour scheme or use a custom theme. 
-  - Ensure that customers can post product reviews.
-  - Add any extra customizations that you feel are applicable.
+    - Set the store up with a custom logo.
+    - Alter the colour scheme or use a custom theme. 
+    - Ensure that customers can post product reviews.
+    - Add any extra customizations that you feel are applicable.
 
 ## Potential Non-Cart Options
 - Monthly Service (Uber for prescriptions)
