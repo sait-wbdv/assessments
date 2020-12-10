@@ -14,15 +14,10 @@ Skulls to be awarded when submitting making the world a better place for other c
   - One Skull for each PR;
   - 2 Skulls max.
 - Lean Canvas contribution: take part in (and add value to) a Lean Canvas exercise for another classmate.
+  - One skull max.
 
 ## Devops
 Skulls to be awarded when dealing with Git, GH, DNS, and tools.
-- Custom Domain
-  - Two Skulls
-  - Register a domain and point it to a GH Pages repo.
-- Flywheel Extension
-  - One Skull
-  - open a chat session with Flywheel support and ask for a trial extension
 - Tech Support!!!
   - Help out classmates with a git conflict or some other terrifying tech problem.
 
@@ -40,3 +35,12 @@ Skulls to be awarded when dealing with Git, GH, DNS, and tools.
 ## Data entry
 - Converting data formats
   - For example, someone might need a CSV converted to JSON.
+
+## Archived
+### Devops
+- Custom Domain
+  - Two Skulls
+  - Register a domain and point it to a GH Pages repo.
+- Flywheel Extension
+  - One Skull
+  - open a chat session with Flywheel support and ask for a trial extension
