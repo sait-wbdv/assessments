@@ -10,6 +10,8 @@ Bounties that can be completed by anyone without being claimed.
     1. Document Plan A of an idea that could be a business
     2. Identify the riskiest aspects of the plan
     3. Define next steps for testing the idea. For example, competitor research, proof-of-concept demo, etc
+- Logo Request
+  - 
 
 ## Closed Bounties
 Bounties that must be claimed before completing.
