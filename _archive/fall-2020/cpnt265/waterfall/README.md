@@ -1,6 +1,6 @@
 # CPNT 265: The Business of the Web
 ## [Assignment 1: E-Business Justification](https://github.com/sait-wbdv/assessments/tree/master/cpnt265/waterfall/assignment-1) (Group Project)
-- Due: Thursday, Dec 10 @ 8pm 
+- Due: Thursday, Dec 10 @ 11:59pm 
 - Weight: 35%
 
 ## [Assignment 2: E-business Proof-of-Concept](https://github.com/sait-wbdv/assessments/tree/master/cpnt265/waterfall/assignment-2) (Group Presentation)
