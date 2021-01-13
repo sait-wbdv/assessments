@@ -1,4 +1,4 @@
-# Assignment 1: Website Review
+# Assignment 1: Website Critique
 Select a public, multi-page website of your choice. Write a 600-750 word critique evaluating of this website, based on the terminology and concepts you've learned in this course.
 
 ## Questions to think about
@@ -15,6 +15,7 @@ Base your critique on the following criteria.
     - Is the content responsive? Is there content parity?
     - Does the mobile site take advantage of any phone-specific features or capabilites?
     - Does the site make effective use of cards?
+    
 You _do not_ need to answer every question and you may use some of your own.
 
 ---

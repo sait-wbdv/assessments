@@ -1,6 +1,6 @@
 # DSGN 270: Fall 2020 Assignments
 ## Design
-### Assignment 1: [Website Review](https://github.com/sait-wbdv/assessments/tree/master/dsgn270/design/assignment-1)
+### Assignment 1: [Website Critique](https://github.com/sait-wbdv/assessments/tree/master/dsgn270/design/assignment-1)
 - Due: Wednesday, January 20 @ 11:59pm
 - Weight: 25% of Final Course Mark
 
