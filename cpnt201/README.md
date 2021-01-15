@@ -16,5 +16,5 @@
 
 ## Build Tools
 ### Assignment 4: TBA
-- Due: Monday, Nov 2
+- Due: TBA
 - Weight: 25% of Final Course Mark
