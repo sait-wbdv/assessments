@@ -33,7 +33,7 @@ Scenario: Your potential client will choose their favourite template after an in
 In order to receive a grade, you must:
 1. Deploy each template to a separate GitHub Pages repository named "cpnt201-a1-[template-name]".
 2. Zip your projects/repos and submit them to Brightspace.
-3. Include links to each GitHub repo as a comment with your Brightspace submission.
+3. Include links to each GitHub repo and GH Pages site as a comment with your Brightspace submission.
 
 ## Marking Rubric
 This assignment will be marked out of 25 points.
