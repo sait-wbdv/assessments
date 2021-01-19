@@ -4,8 +4,8 @@
 - Due: Wednesday, January 20 @ 11:59pm
 - Weight: 25% of Final Course Mark
 
-### Assignment 2: TBA
-- Due: TBA
+### Assignment 2: [Open Asset Hunt](https://github.com/sait-wbdv/assessments/tree/master/dsgn270/design/assignment-2)
+- Due: Wednesday, January 27
 - Weight: 25% of Final Course Mark
 
 ## Social Tools
