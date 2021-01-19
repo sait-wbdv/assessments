@@ -6,12 +6,12 @@
 
 ## Raster Images
 ### Assignment 2: TBA
-- Due: TBA
+- Due: Wednesday, February 10
 - Weight: 25% of Final Course Mark
 
 ## Vector Images
 ### Assignment 3: TBA
-- Due: TBA
+- Due: Friday, February 12
 - Weight: 25% of Final Course Mark
 
 ## Build Tools

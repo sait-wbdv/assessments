@@ -4,18 +4,18 @@
 - Weight: 20% of Final Course Mark
 
 ## Assignment 1: Home page with header and footer
-- Due: TBA
+- Due: Friday, January 29
 - Weight: 20% of Final Course Mark
 
 ## Assignment 2: Contact page with Team cards
-- Due: TBA
+- Due: Wednesday, February 1
 - Weight: 20% of Final Course Mark
 
 ## Assignment 3: Image gallery
-- Due: TBA
+- Due: Friday, February 3
 - Weight: 20% of Final Course Mark
 
 ## Assignment 4: Hero section refactor
-- Due: TBA
+- Due: Monday, February 5
 - Weight: 20% of Final Course Mark
 
