@@ -10,7 +10,7 @@ The goal of **this assignment** is to collect openly licensed assets for these e
 ## Instructions 
 Using the [Open-source Assets Cheatsheet](https://sait-wbdv.github.io/winter-2021/cheatsheets/copyright/open-assets), and/or any other resources you can find online, collect the following openly licensed assets that centre around a topic of your choice:
 
-1. Converted to markdown or HTML (valid markup required): at least 500 words of text describing or relating to your topic. It should contain a mix of the following and be converted to markdown or HTML:
+1. Converted to markdown or HTML (valid markup required): at least 500 words of text describing or relating to your topic. It should contain a mix of the following:
     - level 1 and 2 headings;
     - body text;
     - ordered or unorded lists;
@@ -20,11 +20,13 @@ Using the [Open-source Assets Cheatsheet](https://sait-wbdv.github.io/winter-202
 2. 9-12 images that are at least 1500px in the longest dimension.
 3. One (or more, if desired) vector icon/graphic, in SVG format, that represents your topic and can serve as a logo.
 
-## Attributions
-The attributions of each asset you collect should be listed in a README with the following:
-- the name of the original author/creator;
-- attribution link to the original work;
-- a link to the applicable license of the work.
+## README.md
+1. Include the course name and assignment title in a level 1 heading at the top of the page.
+2. In regular text under the above heading, include your name as repo owner and maintainer.
+3. Under the above heading and owner/maintainer text, list the following attributions of each asset (or group of assets) you collected under a level 2 "Attributions" heading:
+    - the name of the original author/creator;
+    - attribution link to the original work;
+    - a link to the applicable license of the work.
 
 ## Directory structure
 
