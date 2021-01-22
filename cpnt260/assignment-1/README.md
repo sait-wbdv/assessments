@@ -5,7 +5,7 @@ This assignment will serve as starting project for future assignments. You have 
 1. You're an intern at a design agency and you're the only one in the office that can code. A new client asks for a first draft of a one-page website.
 2. You are an independent contractor and you just landed your first paying project: a one-page website!
 3. You need a website to promote your services. You think a one-page website is the best way to go.
-4. A grandparent wants a website to show off his dog?
+4. A grandparent wants a website to show off their dog?
 
 ## Marking Rubric
 Each of the following will be marked out of 4 points (for a total of 20 points), based on the requirements below:
