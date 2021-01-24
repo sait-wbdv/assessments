@@ -42,7 +42,7 @@ Using the [Open-source Assets Cheatsheet](https://sait-wbdv.github.io/winter-202
 - Your `index` content does not need to link to your images.
 
 ## Submission Requirements
-- Push this assignment to a GitHub repo named `cpnt270-a2`.
+- Push this assignment to a GitHub repo named `dsgn270-a2`.
 - ZIP all files and upload to Brightspace. 
 - Leave a link to your GitHub repo as a comment in your Brightspace submission.
 
