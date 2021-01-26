@@ -1,4 +1,4 @@
-# CPNT 260 Assignment 1: Card content block
+# CPNT 260 Assignment 2: Card content block
 In this assignment, you will
 - add an additional content block containing a row of 3 cards (on wide screens) to the page you created in Assignment 1;
 - enhance your navigation menu to make it responsive.
