@@ -17,14 +17,14 @@ The content block can reflect a topic of your choice. For example:
 ## Marking Rubric
 Each of the following will be marked out of 4 points (for a total of 20 points), based on the requirements below:
 
-### 2. Card content block
+### 1. Card content block
 - Responsive content block: 3 cards in a row on wide screens.
 - Content block should be wrapped in a `section` element or similar with a heading describing the section (i.e. "Our Team").
 - Cards must have readable text at all screen sizes (ex. minimum `20ch` line length, no overflow, etc).
 - Content block should be responsive: display a row of three cards on wide screens and a single column of 3 rows on mobile. Optional: there can be middle phase of two columns (2 cards and 1card, centered).
 - Media queries should not be used to achieve responsiveness.
 
-### 1. Card design
+### 2. Card design
 Each card should be designed with the following specifications:
 - Include an image. This can be a raster, svg or icon font.
 - Include a heading with body text relating to the image.
