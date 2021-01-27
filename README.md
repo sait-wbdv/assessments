@@ -14,9 +14,9 @@
 - Jan 22: [CPNT 201](cpnt201) - Assignment 1
 - Jan 25: [CPNT 260](cpnt260) - Free Code Camp Exercises
 - Jan 27: [DSGN 270](dsgn270) - Assignment 2
-- Jan 29: CPNT 260 Assignment 1
-- Feb 01: CPNT 260 Assignment 2
-- Feb 03: CPNT 260 Assignment 3
-- Feb 05: CPNT 260 Assignment 4
-- Feb 08: CPNT 201 Assignment 2
-- Feb 10: CPNT 201 Assignment 3
+- Jan 29: [CPNT 260](cpnt260) - Assignment 1
+- Feb 03: [CPNT 260](cpnt260) - Assignment 2
+- Feb 05: [CPNT 260](cpnt260) - Assignment 3
+- Feb 08: [CPNT 260](cpnt260) - Assignment 4
+- Feb 10: [CPNT 201](cpnt201) - Assignment 2
+- Feb 12: [CPNT 201](cpnt201) - Assignment 3
