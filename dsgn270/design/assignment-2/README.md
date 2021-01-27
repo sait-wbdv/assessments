@@ -10,7 +10,7 @@ The goal of **this assignment** is to collect openly licensed assets for these e
 ## Instructions 
 Using the [Open-source Assets Cheatsheet](https://sait-wbdv.github.io/winter-2021/cheatsheets/copyright/open-assets), and/or any other resources you can find online, collect the following openly licensed assets that centre around a topic of your choice:
 
-1. Converted to markdown or HTML (valid markup required): at least 500 words of text describing or relating to your topic. It should contain a mix of the following:
+1. Converted to markdown or HTML (valid markup required): at least 500 words of openly-licensed text (i.e. you **don't** have to write original content) describing or relating to your topic. It should contain a mix of the following:
     - level 1 and 2 headings;
     - body text;
     - ordered or unorded lists;
