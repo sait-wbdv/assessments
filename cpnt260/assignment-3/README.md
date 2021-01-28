@@ -1,12 +1,12 @@
-# CPNT 260 Assignment 3: Gallery with `figure` and `figcaption`
-In this assignment, you will
-- add an additional content block containing a gallery of 9-12 images/figures;
-- 
+# CPNT 260 Assignment 3: Image gallery and social icons
+In this assignment, you will:
+- Add an additional content block containing a gallery of 9-12 images/figures;
+- Add a social media links menu.
 
 The content block can reflect a topic of your choice. For example:
-- 
-- 
-- 
+- Portfolio gallery
+- Travel image gallery
+- Products for sale
 
 ## Client User Stories
 1. You're an intern at a design agency and you're the only one in the office that can code. A new client asks for a first draft of a one-page website.
@@ -23,11 +23,13 @@ Each of the following will be marked out of 4 points (for a total of 20 points),
   - figcaption should have a `min-width` to preserve line length.
 - Content images using `img` elements.
 - Lorem Picsum is allowed.
+- Image aspect ratio should be preserved. 
 - Photo credits required, even if they're your own work.
 
 ### 2. Responsive gallery
 - Single column on mobile, three or more columns on desktop.
 - Gallery can be implemented with Flex or Grid.
+- Gallery should be centered in its container.
 - Media queries should _not_ be used.
 
 ### 3. Social links
@@ -40,6 +42,9 @@ Add a menu listing at least 3 relevant social media links for your project such 
   - Presentation SVG images using pseudo-elements.
 
 ### 4. Devops and Deployment
+- Your project should employ two-three custom fonts, either self-hosted or linked from a font service like Google Fonts.
+- CSS should be linked in a CSS file named `main.css`, `styles.css`, etc.
+- Deploy your project to GitHub Pages.
 
 ### 5. Project documentation and code quality
 - Include a `README.md` in your project that contains the following information:
@@ -64,11 +69,10 @@ Add a menu listing at least 3 relevant social media links for your project such 
   - Images should include proper `alt` text attributes.
 - Page is marked up with proper semantic elements, when needed.
 
-
 ---
 
 ## Submission Requirements
-- Push this assignment to a repo named `cpnt260-ax`.
+- Push this assignment to a repo named `cpnt260-a3`.
 - ZIP all files required for the site to operate and upload to Brightspace. 
 - Leave a link to the following as a comment in your Brightspace submission (this is duplicated in your readme but comes in handy sometimes):
   - GH repo

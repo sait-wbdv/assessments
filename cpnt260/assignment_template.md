@@ -47,7 +47,7 @@ Each of the following will be marked out of 4 points (for a total of 20 points),
     - have a contrast ratio below _AA_ for its text size.
   - Images should include proper `alt` text attributes.
 - Page is marked up with proper semantic elements, when needed.
-
+- CSS declarations should be organized by category (box model, fonts, borders, flex, etc), separated by a space.
 
 ---
 

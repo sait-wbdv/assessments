@@ -8,14 +8,14 @@
 - Weight: 20% of Final Course Mark
 
 ## Assignment 2: [Card content block](https://github.com/sait-wbdv/assessments/tree/master/cpnt260/assignment-2)
-- Due: Monday, February 3
+- Due: Wednesday, February 3
 - Weight: 20% of Final Course Mark
 
-## Assignment 3: Image gallery with figcaptions
-- Due: Wednesday, February 5
+## Assignment 3: [Image gallery and social icons](https://github.com/sait-wbdv/assessments/tree/master/cpnt260/assignment-3)
+- Due: Friday, February 5
 - Weight: 20% of Final Course Mark
 
 ## Assignment 4: Hero section with CTA form
-- Due: Friday, February 8
+- Due: Monday, February 8
 - Weight: 20% of Final Course Mark
 
