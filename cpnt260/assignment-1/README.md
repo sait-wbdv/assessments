@@ -1,5 +1,7 @@
 # CPNT 260 Assignment 1: Home Page with horizontal nav
-This assignment will serve as starting project for future assignments. You have the freedom to pick the website topic to encourage creativity (and hopefully give you ammunition for the Final Presetnations).
+This assignment will serve as starting project for future assignments. You have the freedom to pick the website topic to encourage creativity (and hopefully give you ammunition for the Final Presentations).
+
+This will assume a single page site but you can optionally build a multi-page site.
 
 ## Client User Stories
 1. You're an intern at a design agency and you're the only one in the office that can code. A new client asks for a first draft of a one-page website.
@@ -12,7 +14,7 @@ Each of the following will be marked out of 4 points (for a total of 20 points),
 
 ### 1. Page Header and Footer
 - Site name and logo.
-  - `h1` heading _cannot_ be used, a `div` or `p` is preferred;
+  - `h1` heading is usually not used in the `header` for _multi-page_ sites, a `div` or `p` is preferred;
   - logo displayed using `img` element.
 - Page footer
   - Copyright information centered in the footer.
@@ -21,13 +23,16 @@ Each of the following will be marked out of 4 points (for a total of 20 points),
   - Copyright symbol using either an icon font or HTML entity
 
 ### 2. Horizontal Page Navigation
+Actual link text and destinations can differ from below:
 - Menu links will be obviously clickable:
   - Home
     - Can be linked in the main menu or on a logo/site name.
   - Gallery
     - Link `href` to an image gallery of your choice.
-  - Contact
+  - Contact or similar
     - Link `href` to your own website, LinkedIn or social media profile of your choice. 
+    - OR, use a `mailto:` link
+    - OR, similar...
   - Login
     - Link `href` to `#`.
   - Register
@@ -38,12 +43,12 @@ Each of the following will be marked out of 4 points (for a total of 20 points),
 ### 3. Page Content
 - `h1` and `h2` headings;
 - `p`;
-- `ul`/`li` and/or `ol`/`li`;
 - `a` linked to an external site in a new tab;
 - `strong` _and_ `em`;
 - `img`
   - using Lorem Picsum (locally linked images will be accepted);
   - spans `100%` of its container (floated images will be accepted, as long as text is readable);
+- optional: `ul`/`li` and/or `ol`/`li`;
 
 ### 4. General Requirements
 - Page is marked up with proper semantic structural elements: 
