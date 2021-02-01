@@ -15,7 +15,7 @@
 - Due: Friday, February 5
 - Weight: 20% of Final Course Mark
 
-## Assignment 4: Hero section with CTA form
+## Assignment 4: [Hero section with CTA](https://github.com/sait-wbdv/assessments/tree/master/cpnt260/assignment-4)
 - Due: Monday, February 8
 - Weight: 20% of Final Course Mark
 
