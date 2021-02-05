@@ -1,4 +1,4 @@
-# Assignment 2 - Three Deployed Git Hub Pages Templates
+# Assignment 2 - Raster Images
 
 ## Criteria
 ### 1. Low-frequecy image: Landscape and portrait hero images (10 points)
@@ -6,6 +6,8 @@ Create a simple hero section that:
 - Fills the viewport (100vw and 100vh);
 - Contains a low-frequency image as a `background-image` that takes up at least 25% of the viewport;
 - Displays a different image on `landscape` vs `portrait`.
+- Text card over `background-image`.
+- Text cannot overlap a high-frequency area.
 
 **5 points each:**
 1. Image files
@@ -43,9 +45,37 @@ Below the Hero section above, place a centered image that is at least 80vw with 
     - Each size of a given blog image should have the same aspect ratio.
 
 ### 5. Documentation and code quality
-- Proper directory structure
-    - `/assets/images/lg...`
-    - `/index.html`
-- README
+- Use the following recommended file structure, replacing `image-name` with a name of your choice. You may replace the file extension if you used WebP or PNG, based on the requirements above:
 
-## Submission instructions
+    ```
+    /assets/images
+      /high-frequency
+        /full
+          /img-name.jpg
+        /lg
+          /img-name.jpg
+        /md
+          /img-name.jpg
+        /sm
+          /img-name.jpg
+      /low-frequency
+        /img-landscape.png
+        /img-portraint.png
+    /index.html
+    ```
+
+- Include a `README.md` in your project that contains the following information:
+  - Course title;
+  - Author name;
+  - Links to:
+    - GH repo;
+    - GH Pages site
+  - Attributions for any code or assets that are not your own.
+
+
+## Submission Requirements
+- Push this assignment to a repo named `cpnt201-a2`.
+- ZIP all files required for the site to operate and upload to Brightspace. 
+- Leave a link to the following as a comment in your Brightspace submission (this is duplicated in your readme but comes in handy sometimes):
+  - GH repo
+  - GH Pages site
