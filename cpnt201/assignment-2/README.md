@@ -1,69 +1,91 @@
-# Assignment 2 - Raster Images
+# Assignment 2 - Raster Image Optimization
+In this assignment, you will: 
+- create three `small`, `medium` and `large` image sets;
+- place the images in a responsive web page;
+- optimize the images with `srcset`, `width`, `height` and `loading` image attributes.
 
-## Criteria
-### 1. Low-frequecy image: Landscape and portrait hero images (10 points)
-Create a simple hero section that:
-- Fills the viewport (100vw and 100vh);
-- Contains a low-frequency image as a `background-image` that takes up at least 25% of the viewport;
-- Displays a different image on `landscape` vs `portrait`.
-- Text card over `background-image`.
-- Text cannot overlap a high-frequency area.
+---
 
-**5 points each:**
-1. Image files
-    - file size: 15k
-    - File format: can be either WebP, JPEG or PNG.
-2. Hero section with `orientation` media query
-    - Text card over `background-image`.
-    - Text cannot overlap a high-frequency area.
+## Directory Structure
+The following directory structure is expected for this assignment:
 
-### 2. Blog excerpt with 100% image (10 points)
-Below the Hero section above, place a centered image that is at least 80vw with a `max-width` of `1920px`.
+```
+/assets
+  /css
+    /main.css
+  /images
+    /full
+      /img-1.jpg
+      /img-2.jpg
+      /img-3.jpg
+    /lg
+      /img-1.webp
+      /img-2.webp
+      /img-3.webp
+    /md
+      /img-1.webp
+      /img-2.webp
+      /img-3.webp
+    /sm
+      /img-1.webp
+      /img-2.webp
+      /img-3.webp
+/index.html
+```
 
-**5 points each:**
-1. High-fequency files (over 75% can be considered high-frequency)
-    - Large file
-        - width: `1920px`
-        - aspect ratio: 2:1
-        - size: 100k
-    - Medium file
-        - width: `1024px`
-        - aspect ratio: 2:1
-        - size: 50k
-    - Small file
-        - width: `500px`
-        - aspect ratio: 2:1
-        - size: 25k
-    - File format: can be either WebP or JPEG.
-2. `srcset` implementation 
-    - Breakpoints based on viewport width:
-        - large image: `1500px` and up
-        - medium image: `750px`-`1500px`
-        - small image: under `750px`
-    - Images should be organized in (and linked to) a local `images` folder with coresponding `sm`, `md` and `lrg` directories. Follow file and directory naming convensions covered in this program.
-    - To help your instructor mark this assignment, the images for each blog article should be visually distinct across each size. You may use a method of your choice to accomplish this. For example, you may use different colour correction, filters, etc.
-    - Each size of a given blog image should have the same aspect ratio.
+- Change the image filenames and extensions to suit your needs, but they should be easily recognized within an image set.
+- `main.css` may be changed to `style.css` or similar.
 
-### 5. Documentation and code quality
-- Use the following recommended file structure, replacing `image-name` with a name of your choice. You may replace the file extension if you used WebP or PNG, based on the requirements above:
+---
 
-    ```
-    /assets/images
-      /high-frequency
-        /full
-          /img-name.jpg
-        /lg
-          /img-name.jpg
-        /md
-          /img-name.jpg
-        /sm
-          /img-name.jpg
-      /low-frequency
-        /img-landscape.png
-        /img-portraint.png
-    /index.html
+## Instructions
+### 1. Processed Images
+1. Choose 3 openly licensed (or your own) **high-frequency** images (**that weren't images given to you in class**) to use in this project. Source images should be at least 2000px wide.
+2. For each image, create the following image set with a _2:1 aspect ratio_ and _max `100k` file size_:
+    - small: `500px` wide;
+    - medium: `1024px` wide;
+    - large: `1920px` wide;
+3. Images should be organized according to the Directory Structure listed above. Place your original source image in `assets/images/full`.
+4. You may use WebP, JPEG or PNG encoders to reach the required file size limit.
+5. Each size of a given image should have the same aspect ratio.
+6. For testing and marking, each image set (`sm`/`md`/`lg`) should be visually distinct across sizes. You may use an image editing method of your choice to accomplish this. For example, you may use different colour correction, filters, etc. 
+
+## 2. HTML/CSS Implementation 
+1. Using the following HTML template (optional), display `img-1`, `img-2` and `img-3` in a valid html page:
+
+    ```html
+    <div class="container">
+      <img src="assets/images/md/img-1.webp" alt="Image 1">
+      <img src="assets/images/md/img-2.webp" alt="Image 2">
+      <img src="assets/images/md/img-3.webp" alt="Image 3">
+    </div>
     ```
 
+    - Change the alt text to something more descriptive based on the content of the image.
+
+2. Make the container and images responsive by linking the following CSS in an external file:
+
+    ```css
+    .container {
+      width: 90vw;
+      max-width: 1920px;
+      margin: auto;
+    }
+
+    img {
+      display: block;
+      width: 100%;
+      margin: 3rem auto;
+    }
+    ```
+
+    - You may add your own CSS for aesthetics but the page and images must remain responsive and `90vw` width until the maximum is reached.
+    - Images should be hosted locally in the directory structure listed above. Follow file and directory naming convensions.
+3. Add appropriate `srcset` image attributes to each `img` element (note that the fallback will be the `md` image). Images should visually change as the browser chooses the optimum image as the viewport width changes.
+4. Add `width` and `height` _attributes_ to each `img` element, corresponding to `src` image. Use CSS to preserve aspect ratio.
+5. Add the appropriate `loading` attribute to the `img` element to allow for lazy loading.
+
+### 3. Documentation and code quality
 - Include a `README.md` in your project that contains the following information:
   - Course title;
   - Author name;
@@ -71,7 +93,23 @@ Below the Hero section above, place a centered image that is at least 80vw with 
     - GH repo;
     - GH Pages site
   - Attributions for any code or assets that are not your own.
+- The above directory structure and naming conventions should be followed.
+- All code must validate and be properly indented, organized and commented.
 
+---
+
+## Marking Rubric
+This assignment will be marked out of 25 points for the following, based on the requirements above:
+1. Processed Images: 5 points for each image set (**15 points** total), focusing on:
+    - 2 points: file size (and whether or not they are high-frequency);
+    - 2 points: image size and aspect ratio;
+    - 1 point: visual distinctiveness across image sizes.
+2. HTML/CSS Implementation: **5 points**:
+    - 3 points: images change at the proper breakpoints;
+    - 2 points: `width`, `height`, and `loading` attributes are properly implemented.
+3. Documentation and code quality: **5 points**.
+
+---
 
 ## Submission Requirements
 - Push this assignment to a repo named `cpnt201-a2`.
