@@ -5,7 +5,7 @@
 - [DSGN 270: Web Design Theory and Social Media Concepts](dsgn270)
 - [CPNT 201: Web Design Tools and Techniques](cpnt201)
 - [CPNT 260: Web Page Construction Fundamentals](cpnt260)
-- CPNT 262: Web Client and Server Programming
+- [CPNT 262: Web Client and Server Programming](cpnt262)
 - CPNT 200: Content Management Systems
 - CPNT 265: The Business of the Web
 
@@ -19,4 +19,5 @@
 - Feb 05: [CPNT 260](cpnt260) - Assignment 3
 - Feb 08: [CPNT 260](cpnt260) - Assignment 4
 - Feb 10: [CPNT 201](cpnt201) - Assignment 2
-- Feb 12: [CPNT 201](cpnt201) - Assignment 3
+- Feb 12: [CPNT 262](cpnt260) - Free Code Camp Exercises
+- Feb 15: [CPNT 201](cpnt201) - Assignment 3
