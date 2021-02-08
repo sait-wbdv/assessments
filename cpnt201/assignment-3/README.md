@@ -55,9 +55,9 @@ Please include a README with the following:
 
 ## Submitting Your Assignment
 In order to receive a grade, you must:
-1. Deploy your project to a GitHub Pages repository named "cpnt201-a3".
+1. Deploy your project to a GitHub Pages repository named `cpnt201-a3`.
 2. Zip your project/repo and submit them to Brightspace.
-3. Include links to each GitHub repo as a comment with your Brightspace submission.
+3. Include links to your GitHub repo and GH Pages site as a comment with your Brightspace submission.
 
 ---
 
