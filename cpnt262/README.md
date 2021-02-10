@@ -5,16 +5,16 @@
 - Due: Friday, Feb 12
 - Weight: 15% of Final Course Mark
 
-## Assignment 1: TBA
-- Due: TBA
+## Assignment 1: Hamburger Menu
+- Due: Feb 19
 - Weight: 10% of Final Course Mark
 
 ## Assignment 2: TBA
-- Due: TBA
+- Due: Feb 26
 - Weight: 10% of Final Course Mark
 
 ## Assignment 3: TBA
-- Due: TBA
+- Due: Mar 3
 - Weight: 10% of Final Course Mark
 
 ## Assignment 4: TBA
