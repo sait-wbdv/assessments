@@ -2,7 +2,7 @@
 In this assignment, you will: 
 - create three `small`, `medium` and `large` image sets;
 - place the images in a responsive web page;
-- optimize the images with `srcset`, `width`, `height` and `loading` image attributes.
+- optimize the image performance with `srcset`, `width`, `height` and `loading` image attributes.
 
 ---
 
@@ -34,6 +34,7 @@ The following directory structure is expected for this assignment:
 ```
 
 - Change the image filenames and extensions to suit your needs, but they should be easily recognized within an image set.
+- You may optionally add `sm`, `md` and `lg` labels to your file names. 
 - `main.css` may be changed to `style.css` or similar.
 
 ---
@@ -41,7 +42,7 @@ The following directory structure is expected for this assignment:
 ## Instructions
 ### 1. Processed Images
 1. Choose 3 openly licensed (or your own) **high-frequency** images (**that weren't images given to you in class**) to use in this project. Source images should be at least 2000px wide.
-2. For each image, create the following image set with a _2:1 aspect ratio_ and _max `100k` file size_:
+2. For each image, create the following image set with a _2:1 aspect ratio_(ish) and _max `100k` file size_:
     - small: `500px` wide;
     - medium: `1024px` wide;
     - large: `1920px` wide;
@@ -79,7 +80,7 @@ The following directory structure is expected for this assignment:
     }
     ```
 
-    - You may add your own CSS for aesthetics but the page and images must remain responsive and `90vw` width until the maximum is reached.
+    - You may add your own CSS for aesthetics but the page and images must remain responsive and `90vw` width until the maximum is reached (the images should then be centered in the viewport).
     - Images should be hosted locally in the directory structure listed above. Follow file and directory naming convensions.
 3. Add appropriate `srcset` image attributes to each `img` element (note that the fallback will be the `md` image). Images should visually change as the browser chooses the optimum image as the viewport width changes.
 4. Add `width` and `height` _attributes_ to each `img` element, corresponding to `src` image. Use CSS to preserve aspect ratio.
@@ -102,10 +103,10 @@ The following directory structure is expected for this assignment:
 This assignment will be marked out of 25 points for the following, based on the requirements above:
 1. Processed Images: 5 points for each image set (**15 points** total), focusing on:
     - 2 points: file size (and whether or not they are high-frequency);
-    - 2 points: image size and aspect ratio;
+    - 2 points: image width and aspect ratio;
     - 1 point: visual distinctiveness across image sizes.
 2. HTML/CSS Implementation: **5 points**:
-    - 3 points: images change at the proper breakpoints;
+    - 3 points: three image sizes are used at two breakpoints (defined by the browser);
     - 2 points: `width`, `height`, and `loading` attributes are properly implemented.
 3. Documentation and code quality: **5 points**.
 
