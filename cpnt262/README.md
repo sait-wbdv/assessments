@@ -5,8 +5,8 @@
 - Due: Friday, Feb 12
 - Weight: 15% of Final Course Mark
 
-## Assignment 1: Hamburger Menu
-- Due: Feb 19
+## Assignment 1: [classList Toggle](https://github.com/sait-wbdv/assessments/tree/master/cpnt262/assignment-1)
+- Due: Feb 19 @ 11:59 PM
 - Weight: 10% of Final Course Mark
 
 ## Assignment 2: TBA
