@@ -10,7 +10,7 @@ You may use the same images you used for CPNT 260 Assignment 3 or you can choose
 This assignment will be marked out of 10 points according to the following requirements:
 
 ### 1. Image Array: 2 Points
-- Array of 9-12 image object literals, decalred as a `const` variable.
+- Array of 9-12 image object literals, declared as a `const` variable.
 - For each image object, store the following information:
   - `id` - Unique identifier (`number`);
   - `title` - Image heading (`string`);
@@ -34,30 +34,33 @@ This assignment will be marked out of 10 points according to the following requi
 - Photo credit information can be displayed once on the page if it is the same for all images (but still must be included in the image objects)
 
 ### 3. Setup and Deployment: 2 points
-- Images must be locally hosted with your project.
-- Image resolution should be appropriate for the final display size in the viewport.
-- The gallery must be responsive.
-- Javascript must be linked in the `head` of the document and located in a dedicated `js` directory. Optional: 
-- Javascript must use _strict_ mode.
-- There must be no JS errors or warnings (except for favicon).
-- CSS must be linked as an external stylesheet in the `head` of the document and located in a dedicated `css` directory.
-- While the goal of this assignment is not design, points will be deducted for accessibility/usability issues.
+- Images
+  - Images must be locally hosted with your project.
+  - Image resolution should be appropriate for the final display size in the viewport.
+  - The gallery must be responsive and accessible.
+- Javascript
+  - Javascript must be linked in the `head` of the document and located in a dedicated `js` directory. Optional: 
+  - Javascript must use _strict_ mode.
+  - There must be no JS errors or warnings (except for favicon).
+- CSS
+  - CSS must be linked as an external stylesheet in the `head` of the document and located in a dedicated `css` directory.
+  - While the goal of this assignment is not design, points will be deducted for accessibility/usability issues.
 
 ### 4. Documentation and Code Quality: 2 Points
 1. Include a `README.md` in your project that contains the following information:
-  - Course title;
-  - Author name;
-  - Links to:
-    - GH repo;
-    - GH Pages site
-  - Some context on the toggle feature (and maybe give him hints on where to look for the requirements above).
-  - Attributions for any code or assets that are not your own.
+    - Course title;
+    - Author name;
+    - Links to:
+      - GH repo;
+      - GH Pages site
+    - Some context/hints on where to look for the requirements above.
+    - Attributions for any code or assets that are not your own.
 2. Use best practices with [file/directory names](https://sait-wbdv.github.io/winter-2021/cheatsheets/naming-conventions/), commenting and indentation:
-  - 2 spaces per indent.
-  - CamelCase naming conventions followed.
-  - Statements ended with semi-colons.
-  - Code is well-commented.
-  - See [JavaScript Style Guide](https://www.w3schools.com/js/js_conventions.asp) for full list.
+    - 2 spaces per indent.
+    - CamelCase naming conventions followed.
+    - Statements ended with semi-colons.
+    - Code is well-commented.
+    - See [JavaScript Style Guide](https://www.w3schools.com/js/js_conventions.asp) for full list.
 
 ---
 
