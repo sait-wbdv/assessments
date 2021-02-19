@@ -37,19 +37,19 @@ This assignment will be marked out of 10 points according to the following requi
 
 ### 4. Documentation and Code Quality: 2 Points
 1. Include a `README.md` in your project that contains the following information:
-  - Course title;
-  - Author name;
-  - Links to:
-    - GH repo;
-    - GH Pages site
-  - Some context on the toggle feature (and maybe give him hints on where to look for the requirements above).
-  - Attributions for any code or assets that are not your own.
+    - Course title;
+    - Author name;
+    - Links to:
+      - GH repo;
+      - GH Pages site
+    - Some context on the toggle feature (and maybe give him hints on where to look for the requirements above).
+    - Attributions for any code or assets that are not your own.
 2. Use best practices with [file/directory names](https://sait-wbdv.github.io/winter-2021/cheatsheets/naming-conventions/), commenting and indentation:
-  - 2 spaces per indent.
-  - CamelCase naming conventions followed.
-  - Statements ended with semi-colons.
-  - Code is well-commented.
-  - See [JavaScript Style Guide](https://www.w3schools.com/js/js_conventions.asp) for full list.
+    - 2 spaces per indent.
+    - CamelCase naming conventions followed.
+    - Statements ended with semi-colons.
+    - Code is well-commented.
+    - See [JavaScript Style Guide](https://www.w3schools.com/js/js_conventions.asp) for full list.
 
 ---
 
