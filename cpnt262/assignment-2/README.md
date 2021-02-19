@@ -16,9 +16,11 @@ This assignment will be marked out of 10 points according to the following requi
   - `title` - Image heading (`string`);
   - `description` - Image description (`string`: 10-25 words);
   - `width` - Image width in pixels (`number`);
-  - `imgURL` - 3rd party web page that the image links to (`string`; example: wikipedia entry relating to the image);
+  - `height` - Image height in pixels (`number`);
+  - `pathURL` - a local path to your image file(`string`);
+  - `linkURL` - 3rd party web page that the image links to (`string`; example: wikipedia entry relating to the image);
   - `credit` - The photo credit for the image such as a person, company or website (`string`).
-  - creditURL - A link to the original photo, photgrapher's home page, license details, etc (`string`).
+  - `creditURL` - A link to the original photo, photgrapher's home page, license details, etc (`string`).
 
 ### 2. Array Loop and Output: 4 Points
 - Using `Array.prototype.forEach()` or similar method/statement, loop through the image array and output to an HTML page.
@@ -30,7 +32,9 @@ This assignment will be marked out of 10 points according to the following requi
   - Direct DOM manipulation (i.e. `Document.createElement()`, etc);
   - the use of a `<template>` element.
 - Gallery HTML should be valid and semantic (i.e. `figure`/`figcaption` elements or similar).
-- All information contained in the object should be used. 
+- All information contained in the object should be used:
+  - `id` is optional;
+  - `width` and `height` are for image attributes. 
 - Photo credit information can be displayed once on the page if it is the same for all images (but still must be included in the image objects)
 
 ### 3. Setup and Deployment: 2 points
@@ -39,7 +43,7 @@ This assignment will be marked out of 10 points according to the following requi
   - Image resolution should be appropriate for the final display size in the viewport.
   - The gallery must be responsive and accessible.
 - Javascript
-  - Javascript must be linked in the `head` of the document and located in a dedicated `js` directory. Optional: 
+  - Javascript must be linked in the `head` of the document and located in a dedicated `js` directory. Optional: ES modules.
   - Javascript must use _strict_ mode.
   - There must be no JS errors or warnings (except for favicon).
 - CSS
