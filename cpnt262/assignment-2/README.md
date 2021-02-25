@@ -20,7 +20,7 @@ This assignment will be marked out of 10 points according to the following requi
   - `pathURL` - a local path to your image file(`string`);
   - `linkURL` - 3rd party web page that the image links to (`string`; example: wikipedia entry relating to the image);
   - `credit` - The photo credit for the image such as a person, company or website (`string`).
-  - `creditURL` - A link to the original photo, photgrapher's home page, license details, etc (`string`).
+  - `creditURL` - A link to the original photo, photographer's home page, license details, etc (`string`).
 
 ### 2. Array Loop and Output: 4 Points
 - Using `Array.prototype.forEach()` or similar method/statement, loop through the image array and output to an HTML page.
