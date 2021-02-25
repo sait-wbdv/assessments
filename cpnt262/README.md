@@ -10,7 +10,7 @@
 - Weight: 10% of Final Course Mark
 
 ## Assignment 2: [Dynamic Image Gallery](https://github.com/sait-wbdv/assessments/tree/master/cpnt262/assignment-2)
-- Due: Feb 26
+- Due: Mar 3
 - Weight: 10% of Final Course Mark
 
 ## Assignment 3: TBA
