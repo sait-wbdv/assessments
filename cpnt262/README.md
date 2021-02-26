@@ -13,21 +13,17 @@
 - Due: Mar 3
 - Weight: 10% of Final Course Mark
 
-## Assignment 3: TBA
-- Due: Mar 3
+## Assignment 3: Static Express Website
+- Due: MArch 12
 - Weight: 10% of Final Course Mark
 
-## Assignment 4: TBA
-- Due: TBA
-- Weight: 10% of Final Course Mark
+## Assignment 4: Node Custom Module
+- Due: March 19
+- Weight: 15% of Final Course Mark
 
-## Assignment 5: TBA
-- Due: TBA
-- Weight: 10% of Final Course Mark
-
-## Assignment 6: TBA
-- Due: TBA
-- Weight: 10% of Final Course Mark
+## Assignment 5: Mongoose Image Gallery
+- Due: March 24
+- Weight: 15% of Final Course Mark
 
 ## Final Project
 - Due: TBA
