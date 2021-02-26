@@ -22,5 +22,7 @@
 - Feb 12: [CPNT 262](cpnt260) - Free Code Camp Exercises
 - Feb 15: [CPNT 201](cpnt201) - Assignment 3
 - Feb 19: [CPNT 262](cpnt262) - Assignment 1
-- Feb 26: [CPNT 262](cpnt262) - Assignment 2
-- Mar 3: CPNT 262 - Assignment 3
+- Mar 3: [CPNT 262](cpnt262) - Assignment 2
+- Mar 12: CPNT 262 - Assignment 3
+- Mar 19: CPNT 262 - Assignment 4
+- Mar 12: CPNT 262 - Assignment 5
