@@ -15,11 +15,11 @@
 - Weight: 25% of Final Course Mark
 
 ## Collaboration Tools
-### Assignment 4: Merge conflicts
+### Assignment 4: [Merge conflicts](https://github.com/sait-wbdv/assessments/tree/master/cpnt201/assignment-4)
 - Due: Friday, March 5
 - Weight: 10% of Final Course Mark
 
-### Assignment 5: Pull Request
+### Assignment 5: [Pull Request](https://github.com/sait-wbdv/assessments/tree/master/cpnt201/assignment-5)
 - Due: Wednesday, March 10
 - Weight: 15% of Final Course Mark
 
