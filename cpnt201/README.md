@@ -9,12 +9,17 @@
 - Due: Wednesday, February 10
 - Weight: 25% of Final Course Mark
 
-## [Vector Images](https://github.com/sait-wbdv/assessments/tree/master/cpnt201/assignment-3)
+## Assignment 2: [Vector Images](https://github.com/sait-wbdv/assessments/tree/master/cpnt201/assignment-3)
 ### Assignment 3: TBA
 - Due: Monday, February 15
 - Weight: 25% of Final Course Mark
 
-## Build Tools
-### Assignment 4: TBA
-- Due: TBA
-- Weight: 25% of Final Course Mark
+## Collaboration Tools
+### Assignment 4: Merge conflicts
+- Due: Friday, March 5
+- Weight: 10% of Final Course Mark
+
+### Assignment 5: Pull Request
+- Due: Wednesday, March 10
+- Weight: 15% of Final Course Mark
+
