@@ -14,6 +14,10 @@ Identify a problem with the `winter-2021` repo and create an Issue describing th
 - an improvement
 - new content
 
+It should be descriptive:
+- What is the problem?
+- What page and line number needs to be changed?
+
 ### 2. Fork and Fix
 Fork the `winter-2021` repo to your GH account. Using [this tutorial](https://www.freecodecamp.org/news/how-to-make-your-first-pull-request-on-github-3/), fix the Issue that you referenced above **in a new branch** of your forked repo.
 
@@ -24,7 +28,7 @@ Push your branch to GH and submit a Pull Request to the `winter-2021` repo, refe
 
 ## Submitting Your Assignment
 In order to receive a grade, you must:
-1. Deploy your project to a GitHub Pages repository named `cpnt201-a5`.
+1. Deploy your project to a GitHub Pages repository named `winter-2021` (which is created when you clone your fork).
 2. Zip your project/repo and submit them to Brightspace.
 3. Include a links to:
     - the **Issue** you created on `winter-2021`.

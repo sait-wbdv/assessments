@@ -18,7 +18,7 @@ Each of the following criteria will be marked out of 5 points, for a total of 10
 
 ## Submitting Your Assignment
 In order to receive a grade, you must:
-1. Deploy your project to a GitHub Pages repository named `cpnt201-a4`.
+1. Deploy your project to a GitHub Pages repository named either `cpnt201-a4` or `hello-conflict` if you used the tutorial from class.
 2. Zip your project/repo and submit them to Brightspace.
 3. Include a link to the **merge commit** from Criteria 1 above.
 
