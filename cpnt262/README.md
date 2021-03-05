@@ -18,7 +18,7 @@
 - Weight: 15% of Final Course Mark
 
 ## Assignment 4: Static Express Website
-- Due: March 9
+- Due: March 19
 - Weight: 10% of Final Course Mark
 
 ## Assignment 5: Mongoose Image Gallery
