@@ -25,6 +25,6 @@
 - Mar 3: [CPNT 262](cpnt262) - Assignment 2
 - Mar 5: [CPNT 201](cpnt201) - Assignment 4
 - Mar 10: [CPNT 201](cpnt201) - Assignment 5
-- Mar 12: CPNT 262 - Assignment 3
-- Mar 19: CPNT 262 - Assignment 4
-- Mar 12: CPNT 262 - Assignment 5
+- Mar 12: CPNT 262 - Assignment 4
+- Mar 19: CPNT 262 - Assignment 3
+- TBA: CPNT 262 - Assignment 5

@@ -13,13 +13,13 @@
 - Due: Mar 3
 - Weight: 10% of Final Course Mark
 
-## Assignment 3: Static Express Website
-- Due: MArch 12
-- Weight: 10% of Final Course Mark
-
-## Assignment 4: Node Custom Module
-- Due: March 19
+## Assignment 3: JSON image gallery with `fetch`
+- Due: March 12
 - Weight: 15% of Final Course Mark
+
+## Assignment 4: Static Express Website
+- Due: March 9
+- Weight: 10% of Final Course Mark
 
 ## Assignment 5: Mongoose Image Gallery
 - Due: March 24
