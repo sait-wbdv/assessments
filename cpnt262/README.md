@@ -17,7 +17,7 @@
 - Due: March 12
 - Weight: 10% of Final Course Mark
 
-## Assignment 4: JSON gallery endpoint with `fetch`
+## Assignment 4: [JSON gallery endpoint with `fetch`](https://github.com/sait-wbdv/assessments/tree/master/cpnt262/assignment-4)
 - Due: March 19
 - Weight: 15% of Final Course Mark
 
@@ -25,6 +25,6 @@
 - Due: March 24
 - Weight: 15% of Final Course Mark
 
-## Final Project
+## DRAFT: [Final Project](https://github.com/sait-wbdv/assessments/tree/master/cpnt262/final)
 - Due: TBA
 - Weight: 25% of Final Course Mark
