@@ -1,4 +1,4 @@
-# Assignment 4: Express Gallery Website
+# Assignment 4: JSON gallery endpoint with fetch
 ## Scenario
 In the assignment you will:
 - Create a 3-page website served with rendered view engine templates.
