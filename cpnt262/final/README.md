@@ -35,13 +35,78 @@ While not explicitly listed as assignment criteria, marks will be deducted for p
 ## Criteria
 5 points will be given for each of the following criteria, for a total of 25 points:
 
-### 1. HTML Endpoints
+### 1. Rendered HTML Endpoints
+Create HTML route handlers to render and serve the following pages using `ejs` (or similar):
+- `GET /`
+- `GET /subscribe`
+  - Contains subscribe form:
+    - Fields
+      - `name`
+      - `email`
+      - `action="[POST endpoint]"`
+      - `method="post"`
+  - Returns with a custom message, repeating the name and email, confirming they are subscribed.
+- `GET /gallery`
+  - lists 9-12 products/services/items of your choice with a minimum of the fields listed in the Model in the next section.
+  - Client-side `fetch()` calls to a JSON endpoint (listed below)
+- `GET /gallery/:id` (`:id` could be some other unique identifier)
+    - Displays a single product/service from the above list. This should be rendered server-side with `ejs`.
+- `GET /team`
+  - Displays a list of each of your team members.
+  - If you are in a group of 4, this page should be built client-side with a `fetch()` call to a JSON endpoint (listed below). For groups of 3, this may be static view rendered using EJS (no database functionality needed).
+- `GET /admin`
+  - Displays a list of your subscribers.
+- All static HTML should be served with EJS (or similar) view templates. For each page of your site using either EJS or Pug:
+  - Repeating page elements (`head`,`header`,`nav`,`footer`, etc) moved to separate template "partials" in a `views/partials` directory.
+  - Root page views should be stored in a separate `views/pages` directory.
 
 ### 2. Schema/model implementation
+- Define the following Mongoose Schemas in a dedicated `/models` directory:
+  - `gallery`: The product/service you are selling/advertising. This may be renamed to match your chosen theme.
+    - `id`
+    - `name` or `title`
+    - `description`
+    - `imageSrc`
+    - `width`
+    - `height`
+  - `member`: Your group members, to be listed on your Team page.
+    - `name`
+    - `profilePic`
+    - `title`
+    - `bio`
+    - `github`
+  - `subscriber`: Subscribers to your mailing list.
+- Based on the above schema, `require()` your compiled models into your app.
+- Remember, the above singular noun will determine the name of your MongoDB collection. It will be the plural of the noun (i.e. `galleries`, `members` and `subscribers`).
+
+#### DB seeds
+Your instructor may need to build a local version of your database to mark this assignment.
+- include a `./seeds` directory containing the objects you've defined Models for. 
 
 ### 3. JSON Endpoints
+Create the following JSON endpoints to serve your frontend views:
+1. Products/Services gallery
+    - `GET /api/v0/gallery`
+    - Note: the `GET /gallery/:id` endpoint should be rendered server-side with a view.
+2. Subscribers list
+    - `POST /subscribers`
+        - Inserts subscriber to database using `subscriber` model
+    - `GET /api/v0/subscribers`
+3. Team members (if in a group of 4)
+    - `GET /api/v0/members`
+4. Frontend `fetch()` implementations: Create appropriate frontend `fetch()` requests for the following JSON endpoints defined above:
+    - Requests `GET /api/v0/gallery` for `GET /gallery`
+    - Requests `GET /api/v0/subscribers` for `GET /admin`
+    - Requests `GET /api/v0/members` for `GET /team`
+5. For each `fetch()` request, build a corresponding gallery/list using `/.forEach()` or similar method. 
 
-### 4. Frontend `fetch()` implementation
+### 4. Fancy Feature
+Implement an app feature that we haven't covered in this course. Your instructor needs to approve this feature (before the end of CPNT 262) to ensure it has a large enough scope to qualify for its 5 points of mark value.
+
+Some examples that would qualify:
+- A login session that password protects your `GET /admin` route. Your teammates and your instructor should each have login credentials (`/register` functionality to add user account would not be needed).
+- Pagination routes can be added to your gallery to display them 3 at a time (for example).
+- You can install a 3rd party frontend framework such as [GreenSock](https://greensock.com/) to animate SVGs in your design on page load or button click.
 
 ### 5. Individual Contribution
 Assign the key roles and responsibilities for each group member in delivering the Final Project. After each entry write a short summary defining their role and what their responsibilities are in the project. 

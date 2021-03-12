@@ -17,14 +17,14 @@
 - Due: March 12
 - Weight: 10% of Final Course Mark
 
-## Assignment 4: [JSON gallery endpoint with `fetch`](https://github.com/sait-wbdv/assessments/tree/master/cpnt262/assignment-4)
+## Assignment 4: [JSON gallery routes with `fetch`](https://github.com/sait-wbdv/assessments/tree/master/cpnt262/assignment-4)
 - Due: March 19
 - Weight: 15% of Final Course Mark
 
-## Assignment 5: Mongoose Image Gallery
+## Assignment 5: [ JSON routes with Heroku and MongoDB Atlas](https://github.com/sait-wbdv/assessments/tree/master/cpnt262/assignment-5)
 - Due: March 24
 - Weight: 15% of Final Course Mark
 
 ## DRAFT: [Final Project](https://github.com/sait-wbdv/assessments/tree/master/cpnt262/final)
-- Due: TBA
+- Due: Sunday, March 28
 - Weight: 25% of Final Course Mark
