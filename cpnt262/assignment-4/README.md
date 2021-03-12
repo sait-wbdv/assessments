@@ -17,22 +17,28 @@ Besides the Gallery, the content of the pages will not directly be marked. You m
 
     ```
     project-root
-    └── assets
-        ├── css
-        ├── images
-        └── js
-    └── views
-        └── partials
-            ├── footer.ejs
-            ├── header.ejs
-            └── nav.ejs
-        └── pages
-            └── index.ejs
-            ├── login.ejs
-            └── register.ejs
-    ├── package-lock.json
-    ├── package.json
-    └── server.js
+    └─ data
+       └─ gallery.js (or similar)    
+    └─ public
+       ├─ css
+       ├─ images
+       └─ js
+    └─ routes
+       └─ api
+          └─ v0.js
+       └─ index.js
+    └─ views
+       └─ partials
+          ├─ footer.ejs
+          ├─ header.ejs
+          └─ nav.ejs
+       └─ pages
+          └─ index.ejs
+          ├─ login.ejs
+          └─ register.ejs
+    ├─ package-lock.json
+    ├─ package.json
+    └─ server.js
     ```
 
     You may add more but they will not be marked.
@@ -51,10 +57,12 @@ Besides the Gallery, the content of the pages will not directly be marked. You m
 - HTML Endpoints
   - Create the following HTML endpoints, served with rendered views:
     - `GET /`
+      - Assumption: gallery is shown on this page using `fetch()`
     - `GET /login`
       - Login form does not need to be operable.
     - `GET /register`
       - Register form does not need to be operable.
+  - Load route as a separate module using `require('./routes/index.js')`
 - Each page must incorporate the following template variables:
   - Site title;
   - Page title;
@@ -66,7 +74,7 @@ Besides the Gallery, the content of the pages will not directly be marked. You m
 
 ### 3. Gallery JSON API
 Using your gallery from Assignment 2 (modifications are welcome):
-- Migrate your frontend Javascript array to a custom Node module.
+- Migrate your frontend Javascript array to a custom Node module (`/data/gallery.js`).
   - Required object properties:
     - `id` - Unique identifier (`number`);
     - `title` - Image heading (`string`);
@@ -79,6 +87,7 @@ Using your gallery from Assignment 2 (modifications are welcome):
     - `creditURL` - A link to the original photo, photographer's home page, license details, etc (`string`).
 - Create the following JSON endpoint: `GET /api/v0/gallery` (or similar)
   - Return a JSON response to the client that matches the array exported from your custom module.
+- Load route as a separate module using `require('./routes/api/v0.js')`
 - Using `fetch()` on the frontend, request your gallery array using your JSON endpoint.
   - Refactor your gallery loop to use the fetched JSON array.
   - The gallery should be:
