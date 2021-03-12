@@ -21,10 +21,10 @@
 - Due: March 19
 - Weight: 15% of Final Course Mark
 
-## Assignment 5: [ JSON routes with Heroku and MongoDB Atlas](https://github.com/sait-wbdv/assessments/tree/master/cpnt262/assignment-5)
+## DRAFT - Assignment 5: [JSON routes with Heroku and MongoDB Atlas](https://github.com/sait-wbdv/assessments/tree/master/cpnt262/assignment-5)
 - Due: March 24
 - Weight: 15% of Final Course Mark
 
-## DRAFT: [Final Project](https://github.com/sait-wbdv/assessments/tree/master/cpnt262/final)
+## DRAFT - [Final Project](https://github.com/sait-wbdv/assessments/tree/master/cpnt262/final)
 - Due: Sunday, March 28
 - Weight: 25% of Final Course Mark
