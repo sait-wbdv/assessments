@@ -4,13 +4,12 @@
 - Due: Friday, January 22, 2021
 - Weight: 25% of Final Course Mark
 
-## Assignment 2: [Optimized Raster Images](https://github.com/sait-wbdv/assessments/tree/master/cpnt201/assignment-2)
-### Assignment 2: TBA
+## Image Editing and Optimization
+### Assignment 2: [Optimized Raster Images](https://github.com/sait-wbdv/assessments/tree/master/cpnt201/assignment-2)
 - Due: Wednesday, February 10
 - Weight: 25% of Final Course Mark
 
-## Assignment 2: [Vector Images](https://github.com/sait-wbdv/assessments/tree/master/cpnt201/assignment-3)
-### Assignment 3: TBA
+### Assignment 3: [Vector Images](https://github.com/sait-wbdv/assessments/tree/master/cpnt201/assignment-3)
 - Due: Monday, February 15
 - Weight: 25% of Final Course Mark
 
