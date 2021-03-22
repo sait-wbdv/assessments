@@ -59,9 +59,9 @@ project-root
 - `server.js` 
   - Load model using `require('./models/image.js')`
   - Connect to MongoDB Atlas using `MONGODB_URL`
-      - `.on` event for errors
-      - `.once` event for successful connection
-      - Custom `500 Internal Server` error page if connection fails
+      - Log connection errors to the console. 
+      - Log "Connected to DB..." to the console on successful connection.
+      - Respond with custom `500 Internal Server` error page if connection fails
 - Migrate `GET /api/v0/images` route to use Mongoose/Atlas data instead of custom module.
 - Image cards link to `GET /images/:id` route below
   - Example: `https://[app-domain].herokuapp.com/images/3`

@@ -28,8 +28,9 @@ While not explicitly listed as assignment criteria, marks will be deducted for p
 - Serve static assets from a `public` directory.
 - Return a custom 404 page when a file (or endpoint) cannot be found.
 - Mongoose connection authenticated using `.env` file.
-  - .on event for errors
-  - .once event for successful connection
+    - Log connection errors to the console. 
+    - Log "Connected to DB..." to the console on successful connection.
+    - Respond with custom `500 Internal Server` error page if connection fails
 
 ---
 
