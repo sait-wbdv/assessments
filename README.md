@@ -27,5 +27,8 @@
 - Mar 10: [CPNT 201](cpnt201) - Assignment 5
 - Mar 12: [CPNT 262](cpnt262) - Assignment 3
 - Mar 19: [CPNT 262](cpnt262) - Assignment 4
-- Mar 24: [CPNT 262](cpnt262) - Assignment 5
+- Mar 26: [CPNT 262](cpnt262) - Assignment 5
 - Mar 28: [CPNT 262](cpnt262) - Final Project
+- Apr 1: [CPNT 200](cpnt200) - Final Exam
+- Apr 1: [CPNT 200](cpnt200) - Assignment 1
+- Apr 7: [CPNT 200](cpnt200) - Assignment 2 (Final Group Project)
