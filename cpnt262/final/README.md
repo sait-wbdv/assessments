@@ -1,4 +1,4 @@
-# DRAFT: Node Final Group Project - Deployed Product/Services Website
+# Node Final Group Project - Deployed Product/Services Website
 In this assignment, your group will deploy a multi-page, database-driven Product website using Express, EJS (or similar view engine) and Mongoose. It will be deployed to Heroku and MongoDB Atlas.
 
 ## Instructions
@@ -24,11 +24,46 @@ While not explicitly listed as assignment criteria, marks will be deducted for p
   - `ejs` (or similar)
   - `dotenv`
   - `mongoose`
+  - Fancy feature (see below) 
 - Serve static assets from a `public` directory.
 - Return a custom 404 page when a file (or endpoint) cannot be found.
 - Mongoose connection authenticated using `.env` file.
-  - .on event for errors
-  - .once event for successful connection
+    - Log connection errors to the console. 
+    - Log "Connected to DB..." to the console on successful connection.
+    - Respond with custom `500 Internal Server` error page if connection fails
+
+---
+
+## Example Directory Structure
+
+```
+project-root
+  ├─ models
+      ├─ image.js
+      ├─ subscriber.js
+      └─ team-member.js
+  ├─ public
+  ├─ routes
+      ├─ api-v0.js
+      ├─ index.js
+      └─ gallery.js
+  ├─ seeds
+      ├─ images.js
+      ├─ subscribers.js (if used)
+      └─ team-members.js
+  ├─ views
+      ├─ admin.ejs
+      ├─ gallery-item.ejs
+      ├─ gallery-list.ejs
+      ├─ index.ejs
+      ├─ subscribe.ejs
+      └─ team.ejs
+  ├─ import.js
+  ├─ package.json
+  └─ server.js
+```
+
+- This is an example structure. You may diverge from this as long as none of your route handlers are in `server.js`.
 
 ---
 
@@ -57,7 +92,7 @@ Create HTML route handlers to render and serve the following pages using `ejs` (
 - `GET /admin`
   - Displays a list of your subscribers.
 - All static HTML should be served with EJS (or similar) view templates. For each page of your site using either EJS or Pug:
-  - Repeating page elements (`head`,`header`,`nav`,`footer`, etc) moved to separate template "partials" in a `views/partials` directory.
+  - Repeating page elements (`head`, `header`, `footer`, etc) moved to separate template "partials" in a `views/partials` directory.
   - Root page views should be stored in a separate `views/pages` directory.
 
 ### 2. Schema/model implementation
@@ -76,6 +111,8 @@ Create HTML route handlers to render and serve the following pages using `ejs` (
     - `bio`
     - `github`
   - `subscriber`: Subscribers to your mailing list.
+    - `name`
+    - `email`
 - Based on the above schema, `require()` your compiled models into your app.
 - Remember, the above singular noun will determine the name of your MongoDB collection. It will be the plural of the noun (i.e. `galleries`, `members` and `subscribers`).
 
@@ -98,7 +135,7 @@ Create the following JSON endpoints to serve your frontend views:
     - Requests `GET /api/v0/gallery` for `GET /gallery`
     - Requests `GET /api/v0/subscribers` for `GET /admin`
     - Requests `GET /api/v0/members` for `GET /team`
-5. For each `fetch()` request, build a corresponding gallery/list using `/.forEach()` or similar method. 
+5. For each `fetch()` request, build a corresponding gallery/list using `.forEach()` or similar method. 
 
 ### 4. Fancy Feature
 Implement an app feature that we haven't covered in this course. Your instructor needs to approve this feature (before the end of CPNT 262) to ensure it has a large enough scope to qualify for its 5 points of mark value.
@@ -123,3 +160,21 @@ Things to remember:
 - You must have Git properly configured to use your GitHub email address in order for your commits to be associated with your GH account. Without this, you will not receive credit for any work you have completed.
 - If you have made contributions to the project that are not reflected in your commit history, please elaborate in your Project README or as a comment when you submit your group evaluation.
 - Equal(ish) division of work is required unless there are mitigating circumstances.
+
+---
+
+## Submitting Your Assignment
+In order to receive a grade, you must:
+1. Deploy your Express app to Heroku and MongoDB Atlas.
+2. Include a `README.md` in your project that contains the following information:
+  - Course title and Team name;
+  - Team members;
+  - Details on what your **Fancy Feature** is an where to find it.
+  - Any comments that may help squeeze marks out of your instructor (maybe give him hints on where to look for the requirements above);
+  - Attributions for any code or assets that are not your own.
+3. Zip your project (excluding `node_modules` and `.env` file) and submit them to Brightspace.
+    - include a copy of the database seed (the array of objects) you used for this project so your instructor can recreate your database, if needed.
+4. Include links to the following as a comment with your Brightspace submission:
+    - GH Repo
+    - Deployed Heroku App URL
+    - **Connection string for `MONGODB_URL`**

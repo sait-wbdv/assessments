@@ -1,4 +1,4 @@
-# DRAFT - Assignment 5: JSON Routes with Heroku and MongoDB Atlas
+# Assignment 5: JSON Routes with Heroku and MongoDB Atlas
 ## Scenario
 In this assignment, you will refactor/upgrade the project you submitted for Assignment 4:
 - Create a Mongoose model for your JSON gallery route
@@ -11,6 +11,7 @@ In this assignment, you will refactor/upgrade the project you submitted for Assi
 - Define the entry page as `server.js`
   - Install the following npm packages (plus any other you may need):
     - `express`
+    - `ejs`
     - `mongoose`
     - `dotenv`
 - Make sure that `node_modules` and `.env` is excluded from your repo using a `.gitignore` file.
@@ -58,9 +59,9 @@ project-root
 - `server.js` 
   - Load model using `require('./models/image.js')`
   - Connect to MongoDB Atlas using `MONGODB_URL`
-      - `.on` event for errors
-      - `.once` event for successful connection
-      - Custom `500 Internal Server` error page if connection fails
+      - Log connection errors to the console. 
+      - Log "Connected to DB..." to the console on successful connection.
+      - Respond with custom `500 Internal Server` error page if connection fails
 - Migrate `GET /api/v0/images` route to use Mongoose/Atlas data instead of custom module.
 - Image cards link to `GET /images/:id` route below
   - Example: `https://[app-domain].herokuapp.com/images/3`
@@ -76,7 +77,7 @@ project-root
     - incorporates the following template variables
       - Site title
       - Page title
-    - Incorporates the same template partials from Assignment 4 (at minimum: `header.ejs`, `nav.ejs` and `footer.ejs`)
+    - Incorporates the same template partials from Assignment 4 (at minimum: `head.ejs`, `header.ejs` and `footer.ejs`)
 - Load route as a separate module using `require('./routes/image.js')`
 
 ### 3. Database Import
