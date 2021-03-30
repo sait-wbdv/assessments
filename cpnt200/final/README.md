@@ -1,4 +1,4 @@
-# DRAFT - Final Project: Wordpress Website with Elementor
+# Final Project: Wordpress Website with Elementor
 This assignment will be completed in groups of 3-4. You have the freedom to pick the website topic to encourage creativity (and potentially give you ammunition for the Final Presentations). For the purposes of roles and responsibilities, it's up to each group how you delegate tasks.
 
 The project goal is to create a Wordpress CMS, using Elementor, that is deployed on Flywheel.
@@ -21,14 +21,17 @@ The project goal is to create a Wordpress CMS, using Elementor, that is deployed
   - Update the site title
   - Set the homepage to display a static page and set it to your homepage
   - Permalinks: Set to use the post name
+- Create a shortcode for the current year, stated in the site's copyright statement.
+  - Code examples were given on Day 5 in the Elementor 101 doc.
 
 ### 2. Design System
 Create your own design system:
-1. Disable the default fonts and colors
-2. Create:
-    - global fonts and colours
-    - a button as a theme style
-    - reusable template that is used on multiple pages (example: footer shown in class)
+- Disable the default fonts and colors.
+- Create:
+    - global fonts and colours;
+    - a button as a theme style;
+    - reusable template that is used on multiple pages (example: footer shown in class).
+- Create a mobile friendly navigation menu using the [Header, Footer & Blocks Template](https://wordpress.org/plugins/header-footer-elementor/).
 
 ### 3. Content
 - Custom logo.
@@ -40,9 +43,15 @@ Create your own design system:
 
 Content can be your own work or any openly licensed assets.
 
-### 4. Widgets
-- Add the "Recent Posts" widget somewhere on the site and apply custom CSS for presentation.
-- Use five of [the following widgets](widgets.png) (marked in green) on each page (can be different widgets on each page)
+### 4. Extras
+- Add the "Recent Posts" _widget_ somewhere on the site and apply custom CSS for presentation.
+- Use five of [the following _widgets_](widgets.png) (marked in green) on each page (can be different widgets on each page)
+- Add a form on the website using a _plugin_ with at least 3 fields.
+  - Examples:
+    - newsletter subscription
+    - contact form
+    - small survey
+  - The form does not have to submit an email but should present a valid confirmation screen after submission.
 
 ### 5. Peer Evaluation
 At the end of the Final Project, all team members must evaluate their teammates on a scale of 1-10. Each member's mark for this portion will be the average score given to them by their teammates.
