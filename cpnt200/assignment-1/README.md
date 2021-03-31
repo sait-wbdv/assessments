@@ -74,7 +74,7 @@ Write an SQL query that will perform each of the following actions on the `avian
 
 ## Submission Instructions
 Paste your answers in a README.md file and submit to Brightspace with the following information:
-- Assignment name
+- Course and Assignment name
 - Author
 - Make it clear which question each query is answering. 
 
