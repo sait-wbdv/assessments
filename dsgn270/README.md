@@ -9,8 +9,8 @@
 - Weight: 25% of Final Course Mark
 
 ## Social Tools
-### Assignment 3: TBA
-- Due: TBA
+### Assignment 3: [Community of Practice Micro-essay](https://github.com/sait-wbdv/assessments/tree/master/dsgn270/social/assignment-3)
+- Due: Friday, April 9
 - Weight: 25% of Final Course Mark
 
 ### Assignment 4: TBA
