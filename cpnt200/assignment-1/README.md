@@ -1,6 +1,8 @@
 # Assignment 1: `aviano-db` SQL Queries
 Write an SQL query that will perform each of the following actions on the `aviano-db` database covered in class. A screencap of the expected results have been provided, where appropriate.
 
+**Important**: Each question should be answered with ONE query.
+
 ## Queries
 1. Find all vehicles.
     - Expected Output:
@@ -72,7 +74,7 @@ Write an SQL query that will perform each of the following actions on the `avian
 
 ## Submission Instructions
 Paste your answers in a README.md file and submit to Brightspace with the following information:
-- Assignment name
+- Course and Assignment name
 - Author
 - Make it clear which question each query is answering. 
 
