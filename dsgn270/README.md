@@ -13,6 +13,6 @@
 - Due: Friday, April 9
 - Weight: 25% of Final Course Mark
 
-### Assignment 4: TBA
-- Due: TBA
+### Assignment 4: [Business Synopsis - Pirate Metrics](https://github.com/sait-wbdv/assessments/tree/master/dsgn270/social/assignment-4)
+- Due: Monday, April 12
 - Weight: 25% of Final Course Mark

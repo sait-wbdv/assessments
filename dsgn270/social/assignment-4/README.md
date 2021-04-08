@@ -1,4 +1,4 @@
-# Assignment 4 - Bussiness Synopsis - Pirate Metics
+# Assignment 4: Business Synopsis - Pirate Metics
 Find a local business and evaluate its business model in terms of pirate metrics.
   - the business doesn't have to be local to Calgary;
   - the business can be you;
@@ -42,6 +42,7 @@ For the purposes of this assignment, these questions can be answered hypothetica
 - Are the questions effectively answered?
 - Are concrete examples given?
 - How are the metrics measured?
+- Points will be deducted for poor/missing business summaries.
 
 Points will be deducted for poor readability:
 - Use effective visual hierarchy (headins, lists, etc)
