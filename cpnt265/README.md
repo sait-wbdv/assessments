@@ -1,0 +1,85 @@
+# CPNT 265 Assessments
+## Final Presentation: Deployed Portfolio Project(s)
+- Due: Friday, April 23 @ 9am
+- Weight: 30%
+
+---
+
+## Project Achievements
+Points will be awarded for documentation of your final project prior to the Final Presentations.
+
+### Documentation
+1. Project Proposal: **10 points**
+    - Write a professional-level proposal for your final project.
+    - Detailed requirements to be announced on Day 1.
+2. Lean Canvas: **10 points**
+    - Document Plan A of your final project using Lean Canvas
+    - Detailed requirements to be announced on Day 1.
+
+Note: A project proposal can be combined with lean canvas documentation for a combined **15 points**.
+
+---
+
+## Extra Achievements
+The following activities can be completed for further marks in CPNT 265.
+
+### Mini-lectures
+Points to be awarded for mini presentations to your classmates. 
+- Cameras-on
+- Time limit
+  - Individual: 5 minutes
+  - Group (3 max): 10 minutes
+- Points awarded
+  - First presentation: **10 points**;
+  - Second presentation: **5 point**;
+  - Additional presentations can be complete but pointswill not be awarded.
+  - Group presentations: points are awarded to each presenter.
+
+### Friendly Neighbour
+Points to be awarded when submitting making the world a better place for other coders.
+1. Pull Requests: **5 points**
+    - Submit a Pull Request to a public repo
+    - Submission must fix a real issue in the repo. No "my first pull request" exercises.
+    - Repo must be a legitimate project. IOW, repos belonging to a classmate or the instructor do not qualify.
+    - **5 point bonus** for a PR that is accepted and merged.
+2. Lean Canvas contribution: **5 points**
+    - Take part in (and add value to) a Lean Canvas exercise for another classmate.
+
+### Plugin' away
+1. 3rd-party plugin/library implementation: **5 points**
+    - Show that you've installed and implemented a 3rd party plugin from the following list
+        - Greensock
+        - Chart.js or similar
+        - Tone.js
+        - ???
+2. Frontend Framework Implementation: **10 points**
+    - Implement a sample app using one of the following frameworks:
+        - ReactJS
+        - VueJS
+        - AngularJS
+
+### Devops
+1. Custom Domain on HTTPS: **5 points**
+    - Deploy a web site or app with a custom domain
+    - Must be deployed to a live server such as GH Pages, Heroku or similar
+    - Security certificate must be used to deploy domain on HTTPS
+ 
+### Presentation Day
+1. Personalized Showcase Card: **5 points**
+    - Create a custom card to replace the default card shown on the Showcase page.
+    - Must include the same information:
+        - Display Name
+        - Tagline
+        - Contact links
+        - Social Links
+
+### Assets and Imagery
+Points to be negotiated.
+1. SVG logo
+2. Image optimization
+3. ???
+
+### Stage Crew
+Points to be negotiated.
+1. Trophy Icons
+2. Feature Development
