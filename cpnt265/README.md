@@ -58,6 +58,13 @@ Points to be awarded when submitting making the world a better place for other c
         - VueJS
         - AngularJS
 
+### Data matters
+1. API Authentication: **5 points**
+    - Create an Authentication key/token
+        - Token-based
+        - OAuth
+    - Implement an Minimal Viable Product (MPV) implementing the API
+
 ### Devops
 1. Custom Domain on HTTPS: **5 points**
     - Deploy a web site or app with a custom domain
