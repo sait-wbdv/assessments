@@ -15,8 +15,11 @@ Points will be awarded for documentation of your final project prior to the Fina
 2. Lean Canvas: **10 points**
     - Document Plan A of your final project using Lean Canvas
     - Detailed requirements to be announced on Day 1.
+3. Flowchart/Pseudo-code diagram: **5 points**
+4. Wireframes: **5 points**
+5. Design Mockups/Composites: **5 points**
 
-Note: A project proposal can be combined with lean canvas documentation for a combined **15 points**.
+Note: A project proposal can be combined with lean canvas documentation for a combined **15 points**. All other items can be built independently or as supporting documentation for a Proposal/Canvas.
 
 ---
 
@@ -25,15 +28,20 @@ The following activities can be completed for further marks in CPNT 265.
 
 ### Mini-lectures
 Points to be awarded for mini presentations to your classmates. 
-- Cameras-on
-- Time limit
-  - Individual: 5 minutes
-  - Group (3 max): 10 minutes
-- Points awarded
-  - First presentation: **10 points**;
-  - Second presentation: **5 point**;
-  - Additional presentations can be complete but pointswill not be awarded.
-  - Group presentations: points are awarded to each presenter.
+1. Live-stream
+    - Cameras-on
+    - Time limit
+      - Individual: 5 minutes
+      - Group (3 max): 10 minutes
+    - Points awarded:
+      - First presentation: **10 points**;
+      - Second presentation: **5 point**;
+      - Additional presentations can be complete but points will not be awarded.
+      - Group presentations: points are awarded to each presenter.
+2. Instructional video: **10 points**
+    - 10 minute time limit
+    - Bookends required (title/credit screens)
+    - **5 bonus points** for openly licensed theme song!
 
 ### Friendly Neighbour
 Points to be awarded when submitting making the world a better place for other coders.
@@ -42,7 +50,7 @@ Points to be awarded when submitting making the world a better place for other c
     - Submission must fix a real issue in the repo. No "my first pull request" exercises.
     - Repo must be a legitimate project. IOW, repos belonging to a classmate or the instructor do not qualify.
     - **5 point bonus** for a PR that is accepted and merged.
-2. Lean Canvas contribution: **5 points**
+2. Contribution - Lean Canvas: **5 points**
     - Take part in (and add value to) a Lean Canvas exercise for another classmate.
 
 ### Plugin' away
@@ -63,7 +71,7 @@ Points to be awarded when submitting making the world a better place for other c
     - Create an Authentication key/token
         - Token-based
         - OAuth
-    - Implement an Minimal Viable Product (MPV) implementing the API
+    - Implement a Minimal Viable Product (MPV) implementing the API
 
 ### Devops
 1. Custom Domain on HTTPS: **5 points**
@@ -90,3 +98,4 @@ Points to be negotiated.
 Points to be negotiated.
 1. Trophy Icons
 2. Feature Development
+3. OBS Help
