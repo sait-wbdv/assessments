@@ -5,6 +5,10 @@
 
 ---
 
+[Final Presentation Agenda](schedule.md)
+
+---
+
 ## Project Achievements
 Points will be awarded for documentation of your final project prior to the Final Presentations.
 
