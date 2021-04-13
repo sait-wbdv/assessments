@@ -56,6 +56,9 @@ Points to be awarded for mini presentations to your classmates.
     - 10 minute time limit
     - Bookends required (title/credit screens)
     - **5 bonus points** for openly licensed theme song!
+3. Battlefield Discussion: **5 points**
+    - Involved a real life project?
+    - Book a round-table discussion in the main room if you have information you can share that would be of value to the rest of your classmates.
 
 ### Friendly Neighbour
 Points to be awarded when submitting making the world a better place for other coders.
