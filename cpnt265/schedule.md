@@ -12,25 +12,25 @@
     - Discord bot with rental site
 
 ## Round 2
-1. Norvillie
+- Norvillie
     - Machine learning with hardware integration
-2. Swapna
-3. Shivani
+- Swapna
+- Shivani
     - Business WP website
-4. 
-5. 
-6. 
-7. 
-8. 
+- 
+- 
+- 
+- 
+- 
 
 ## Round 3
-1. 
-2. 
-3. 
-4. 
-5. 
-6. 
-7. 
-8. 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
 
 ## Unscheduled presentations

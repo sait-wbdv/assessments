@@ -22,6 +22,15 @@ Points will be awarded for documentation of your final project prior to the Fina
 3. Flowchart/Pseudo-code diagram: **5 points**
 4. Wireframes: **5 points**
 5. Design Mockups/Composites: **5 points**
+6. Task Board: **1 point per feature** (max 10 points)
+    - Using GH Projects, Trello or similar task tracking tool:
+        1. Create a card representing a task you need to complete for your final presentation. Put it in a _To Do_, _Backlog_ or similar list.
+        2. To submit: Take screencap of project board and total your point for a single Brightspace submission.
+    - A "Task" is loosely defined but it should be a non-trivial activity that brings you closer to your Final Presentation project. Examples:
+        - "Implement personal access token for _GitHub_ API"
+        - "Create logic flowchart for sign-in process"
+        - "Create image gallery from JSON data using fetch and a loop"
+    - Tasks should be submitted in good faith: no cheesy tasks like "tie shoelaces".
 
 Note: A project proposal can be combined with lean canvas documentation for a combined **15 points**. All other items can be built independently or as supporting documentation for a Proposal/Canvas.
 
