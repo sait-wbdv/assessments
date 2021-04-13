@@ -24,8 +24,9 @@ Points will be awarded for documentation of your final project prior to the Fina
 5. Design Mockups/Composites: **5 points**
 6. Task Board: **1 point per feature** (max 10 points)
     - Using GH Projects, Trello or similar task tracking tool:
-        1. Create a card representing a task you need to complete for your final presentation. Put it in a _To Do_, _Backlog_ or similar list.
-        2. To submit: Take screencap of project board and total your point for a single Brightspace submission.
+        1. Optional: Create a "Final Presentation" repo for your tasks.
+        2. Create a card representing a task you need to complete for your final presentation. Put it in a _To Do_, _Backlog_ or similar list.
+        3. To submit: Take screencap of project board and total your point for a single Brightspace submission.
     - A "Task" is loosely defined but it should be a non-trivial activity that brings you closer to your Final Presentation project. Examples:
         - "Implement personal access token for _GitHub_ API"
         - "Create logic flowchart for sign-in process"
