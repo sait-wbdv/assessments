@@ -74,7 +74,7 @@ Points to be awarded when submitting making the world a better place for other c
 ### Plugin' away
 1. 3rd-party plugin/library implementation: **5 points**
     - Show that you've installed and implemented a 3rd party plugin from the following list
-        - Greensock
+        - Greensock, anime.js, etc
         - Chart.js or similar
         - Tone.js
         - ???
@@ -98,13 +98,23 @@ Points to be awarded when submitting making the world a better place for other c
     - Security certificate must be used to deploy domain on HTTPS
  
 ### Presentation Day
-1. Personalized Showcase Card: **5 points**
+1. Personalized Roster Card: **5 points**
     - Create a custom card to replace the default card shown on the Showcase page.
     - Must include the same information:
         - Display Name
         - Tagline
         - Contact links
         - Social Links
+2. Submitted Card information: **5 points**
+    - Name/handle
+    - URL to profile pic
+    - Tagline
+    - Social links
+        - Linkedin
+        - GitHub
+        - Codepen
+        - Twitter/IG/etc
+        - others?
 
 ### Assets and Imagery
 Points to be negotiated.
