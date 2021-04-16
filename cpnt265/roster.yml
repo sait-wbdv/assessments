@@ -1,34 +1,34 @@
-- label: acidtone
-  tagline: nerd herder
-  avatar: https://acidtone.github.io/assets/images/tony.svg
-  links: 
+- label: Ed Irvine
+  tagline: Junior Web Developer – SVG Artist
+  avatar: 
+  links:
     - label: github
-      link: https://github.com/acidtone/
+      link: https://github.com/edirvine333
     - label: codepen
-      link: https://codepen.io/acidtone/
-    - label: meetup
-      link: https://www.meetup.com/pxandpints/
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
--
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
-- 
+      link:  https://codepen.io/edirvine333
+    - label: linkedin
+      link: https://www.linkedin.com/in/edirvine333/
+- label: Makayla M.R
+  tagline: Frontend Web Developer. Strong interest in graphic and motion design. 
+  avatar: 
+  links:
+    - label: linkedin
+      link: https://www.linkedin.com/in/makaylamr/
+    - label: github
+      link: https://github.com/MakaylaMR
+    - label: codepen
+      link: https://codepen.io/makaylamr
+- label: Aidan O'Reilly
+  tagline: Baby full stack dev
+  avatar: https://i.ibb.co/Jp2qXZb/aidan.jpg
+  links:
+    - label: linkedin
+      link: https://www.linkedin.com/in/aidan-oreilly/
+    - label: github
+      link: https://github.com/Aidano93
+- label: 
+  tagline:
+  avatar:
+  links:
+    - label:
+      link:

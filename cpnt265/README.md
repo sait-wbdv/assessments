@@ -108,6 +108,7 @@ Points to be awarded when submitting making the world a better place for other c
 2. Submitted Card information: **5 points**
     - Name/handle
     - URL to profile pic
+        - Please use a proper image service like imgur or host your own using GH Pages. LinkedIn might not like us linking to their profile pics.
     - Tagline
     - Social links
         - Linkedin

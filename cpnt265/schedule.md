@@ -20,12 +20,14 @@
 - Karen
     - Portfolio website
 - Jess
-- 
+- Makayla
+    - portfolio website
 - 
 - 
 
 ## Round 3
-- 
+- Aidan
+    - Spotify API
 - 
 - 
 - 
