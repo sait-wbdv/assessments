@@ -1,6 +1,6 @@
 - label: Ed Irvine
   tagline: Junior Web Developer – SVG Artist
-  avatar: 
+  avatar: https://www.facebook.com/photo?fbid=2779518785595798&set=a.1374491229431901
   links:
     - label: github
       link: https://github.com/edirvine333
@@ -26,9 +26,51 @@
       link: https://www.linkedin.com/in/aidan-oreilly/
     - label: github
       link: https://github.com/Aidano93
-- label: 
-  tagline:
+- label: Joel Kaye
+  tagline: Will code for food
+  avatar: https://imgur.com/a/sPTNKmf
+  links:
+    - label: linkedin
+      link: https://www.linkedin.com/in/joel-kaye
+    - label: github
+      link: https://github.com/kayej22
+- label: Shivani Patel
+  tagline: Full Stack Developer
   avatar:
   links:
-    - label:
-      link:
+    - label: facebook
+      link: https://www.facebook.com/shivani.patel.125/
+    - label: github
+      link: https://github.com/Shi-stack
+    - label: linkedin
+      link: https://www.linkedin.com/in/shivanipatel90ec/
+- label: Isha Simran
+  tagline: Frontend Web Developer and Graphic Designer
+  avatar: https://avatars.githubusercontent.com/u/66693743?v=4
+  links:
+    - label: github
+      link: https://github.com/IshaSimran
+    - label: codepen
+      link: https://codepen.io/ishasimran
+    - label: linkedin
+      link: https://www.linkedin.com/in/isha-sidhu-32a620207/
+- label: Karen
+  tagline: Frontend Developer/ Web Designer specializing in color theory
+  avatar: https://i.imgur.com/Er84hrj.jpg
+  links:
+    - label: linkedin
+      link: https://www.linkedin.com/in/karen-sule-7b9b2420b/
+    - label: github
+      link: https://github.com/nerakmari
+    - label: instagram
+      link: https://www.instagram.com/krensule/
+- label: Norvillie Villaruel
+  tagline: Async life return await success in life;
+  avatar: https://raw.githubusercontent.com/nozky/assets/master/picture/Norvillie-profilePix.jpg
+  links:
+    - label: github
+      link: https://github.com/nozky
+    - label: codepen
+      link: https://codepen.io/nozky
+    - label: linkedin
+      link: https://www.linkedin.com/in/norvillie-villaruel/
