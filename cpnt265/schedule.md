@@ -6,10 +6,13 @@
     - Vegan Street Eats
 3. Joe
     - Static website vs Flywheel WP
-4. Vitaly and Dustin
-    - Multi-player game
-5. Mike
+4. Mike
     - Discord bot with rental site
+5. Vitaly and Dustin
+    - Multi-player game
+
+## Break 1
+- poker time
 
 ## Round 2
 - Norvillie
