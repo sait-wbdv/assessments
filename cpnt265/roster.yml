@@ -82,6 +82,42 @@
       link: https://www.linkedin.com/in/eleanor-forte/
     - label: youtube
       link: https://www.youtube.com/watch?v=dQw4w9WgXcQ
+- label: Swapna Sama
+  tagline: Web Developer
+  avatar: https://scontent.fyyc2-1.fna.fbcdn.net/v/t1.18169-9/12509841_943849245682381_5251708693323453949_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=174925&_nc_ohc=9PvLjnUV4YcAX-zEqYI&_nc_ht=scontent.fyyc2-1.fna&oh=7329559c0b58595d8dd9fd37741ee700&oe=60A42C37
+  links:
+    - label: github
+      link: https://github.com/swappnasama
+    - label: linkedin
+      link: https://www.linkedin.com/in/swapna-sama/
+    - label: facebook 
+      link: https://www.facebook.com/swapna.sama
+- label: Erica
+  tagline: crying my way to the moon with my tendies
+  avatar: https://i.imgur.com/6QP9xmV.jpg
+  links:
+    - label: linkedin
+      link: https://www.linkedin.com/in/ericatrinh/
+    - label: github
+      link: https://github.com/ertrinhh
+- label: Boxiang Xu
+  tagline: Sometime I feel like a developer, sometimes I don't
+  avatar: http://welivemedia.ca/wp-content/uploads/2021/04/DX2.jpg
+  links:
+    - label: linkedin
+      link: https://www.linkedin.com/in/boxiang-xu-7a07b493/
+    - label: github
+      link: https://github.com/Togepi-xbx
+    - label: codepen
+      link: https://codepen.io/Togepi_xbx
+- label: Joseph Butcher
+  tagline: Front End Developer
+  avatar: https://previews.dropbox.com/p/thumb/ABLTHhIn4weN0oMhly0ShvamVSc5uQMnWvu7LrVDL9gUBISvGhzFGpsrRchOwMJb24jvVHK7YhkAWn4CRFek6ZJ6hmqoHTc8Wk9d6TkNjc8_X_89GXGGSxVO693_q6__EtKDr_mI4cG1LjGwAx09XO_psehm3DviMg1PpF8CzrA1uXIOvJgawex6lNa538apOlVNxJe1D91OOpoVGS7WqZVV8jqAlvBFBIw7ioXvhQLh0Nhbh_Y9TOzFwBcyUSBKvX5IQfpi-MmrXveRMG5FWu5dz7ybcxFy-w0__1XGRm8rD0KqjPfy-wCpDZMesyn_S-miSQgHXFe4LO0eAT2j3VqcaBvEKDi81l5DGsGrYwvnpg/p.jpeg?fv_content=true&size_mode=5 
+  links:
+    - label: github
+      link: https://github.com/JoeButchxxx
+    - label: linkedin
+      link: https://www.linkedin.com/in/joseph-butcher-9a560a203/
 - label: 
   tagline: 
   avatar: 

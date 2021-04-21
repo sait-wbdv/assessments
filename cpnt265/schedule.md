@@ -5,7 +5,7 @@
 2. Cry Club: Ellie, Erica, Kyle
     - Vegan Street Eats
 3. Joe
-    - Static website vs Flywheel WP
+    - Portfolio website
 4. Mike
     - Discord bot with rental site
 5. Vitaly and Dustin
@@ -31,7 +31,8 @@
 ## Round 3
 - Aidan
     - Spotify API
-- 
+- Boxiang Xu
+    - Business WP website
 - 
 - 
 - 
