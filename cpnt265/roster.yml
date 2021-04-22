@@ -118,12 +118,80 @@
       link: https://github.com/JoeButchxxx
     - label: linkedin
       link: https://www.linkedin.com/in/joseph-butcher-9a560a203/
-- label: 
-  tagline: 
+- label: Bruk Gebremariam
+  tagline: Junior Web Developer 
+  avatar: https://github.com/B-290/cpnt260-a3
+  links:
+    - label: github
+      link: https://github.com/B-290
+    - label: codepen
+      link: https://codepen.io/bruk-assefa-sinzraw
+    - label: linkedin
+      link: https://www.linkedin.com/in/bruk-gebremariam
+- label: Vitaly Gins
+  tagline: Russian website don't break, russian website breaks you.
+  avatar: https://avatars.githubusercontent.com/u/77210355
+  links:
+    - label: github
+      link: https://github.com/gvitaly87
+    - label: codepen
+      link: https://codepen.io/gvitaly87
+    - label: linkedin
+      link: https://www.linkedin.com/in/vitaly-gins/
+    - label: email
+      link: mailto:vitaly.gins@gmail.com
+- label: Michael Hintz
+  tagline: front-end developer
   avatar: 
   links:
-    - label: 
-      link: 
+    - label: github
+      link: https://github.com/michaelhintz16
+    - label: linkedin
+      link: https://www.linkedin.com/in/michael-hintz-341a3620b/
+- label: Jess Luu
+  tagline: Jess is typing...
+  avatar: https://imgur.com/a/Eg8FgQC
+  links:
+    - label: Linkedin
+      link: https://www.linkedin.com/in/jess-luu38/
+    - label: Github
+      link: https://github.com/jluu38 
+    - label: Codepen
+      link: https://codepen.io/jl38
+    - label: Email
+      link: mailto:jessicaluu38@gmail.com
+- label: Dustin Shulz
+  tagline: Coding and customer service is my forte!
+  avatar: https://avatars.githubusercontent.com/u/77306865?s=400&u=dbeeec6b21399b03320dea3af0d342e9acd896f8&v=4
+  links:
+    - label: linkedin
+      link: https://www.linkedin.com/in/dustinshulz/
+    - label: github
+      link: https://github.com/cowtowndusty
+    - label: codepen
+      link: https://codepen.io/cowtowndusty
+    - label: email
+      link: mailto:dustin.shulz@gmail.com
+- label: Petr Slobodcicov
+  tagline: code on
+  avatar: https://imgur.com/a/EQgQgt2
+  links:
+    - label: github
+      link: https://github.com/petrslo
+    - label: codepen
+      link: https://codepen.io/petrslobo
+    - label: linkedin
+      link: https://www.linkedin.com/in/petr-slobodcicov-170222168/
+- label: Patrick Teskey
+  tagline: Junior Fullstack Developer
+  avatar: https://i.imgur.com/r5zv1ul.jpeg
+  links:
+    - label: github
+      link: https://github.com/pteskey
+    - label: linkedin
+      link: https://www.linkedin.com/in/patrick-teskey/
+    - label: codepen
+      link: https://codepen.io/patrickteskey
 - label: 
   tagline: 
   avatar: 
