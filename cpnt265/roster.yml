@@ -1,6 +1,6 @@
 - label: Ed Irvine
   tagline: Junior Web Developer – SVG Artist
-  avatar: https://edirvine333.github.io/initial_repository/
+  avatar: ed.png
   links:
     - label: github
       link: https://github.com/edirvine333
@@ -10,7 +10,7 @@
       link: https://www.linkedin.com/in/edirvine333/
 - label: Makayla M.R
   tagline: Frontend Web Developer. Strong interest in graphic and motion design. 
-  avatar: 
+  avatar: makayla.jpg
   links:
     - label: linkedin
       link: https://www.linkedin.com/in/makaylamr/
@@ -20,7 +20,7 @@
       link: https://codepen.io/makaylamr
 - label: Aidan O'Reilly
   tagline: Baby full stack dev
-  avatar: https://i.ibb.co/Jp2qXZb/aidan.jpg
+  avatar: aidan.jpg
   links:
     - label: linkedin
       link: https://www.linkedin.com/in/aidan-oreilly/
@@ -28,7 +28,7 @@
       link: https://github.com/Aidano93
 - label: Joel Kaye
   tagline: Will code for food and precious metals
-  avatar: https://imgur.com/a/sPTNKmf
+  avatar: joel.jpg
   links:
     - label: linkedin
       link: https://www.linkedin.com/in/joel-kaye
@@ -36,7 +36,7 @@
       link: https://github.com/kayej22
 - label: Shivani Patel
   tagline: Junior Full Stack Developer
-  avatar:
+  avatar: shivani.jpg
   links:
     - label: facebook
       link: https://www.facebook.com/shivani.patel.125/
@@ -46,8 +46,8 @@
       link: https://www.linkedin.com/in/shivanipatel90ec/
 - label: Isha Simran
   tagline: Frontend Web Developer and Graphic Designer
-  avatar: https://avatars.githubusercontent.com/u/66693743?v=4
-  links:
+  avatar: isha.jpg
+  links: 
     - label: github
       link: https://github.com/IshaSimran
     - label: codepen
@@ -56,8 +56,8 @@
       link: https://www.linkedin.com/in/isha-sidhu-32a620207/
 - label: Karen
   tagline: Frontend Developer/ Web Designer specializing in color theory
-  avatar: https://i.imgur.com/Er84hrj.jpg
-  links:
+  avatar: karen.jpg
+  links: 
     - label: linkedin
       link: https://www.linkedin.com/in/karen-sule-7b9b2420b/
     - label: github
@@ -66,7 +66,7 @@
       link: https://www.instagram.com/krensule/
 - label: Norvillie Villaruel
   tagline: Async life return await success in life;
-  avatar: https://raw.githubusercontent.com/nozky/assets/master/picture/Norvillie-profilePix.jpg
+  avatar: norvillie.jpg
   links:
     - label: github
       link: https://github.com/nozky
@@ -76,7 +76,7 @@
       link: https://www.linkedin.com/in/norvillie-villaruel/
 - label: Ellie Forte
   tagline: Get Rich or Cry Trying
-  avatar: https://imgur.com/a/QxLeMOY
+  avatar: ellie.jpg
   links:
     - label: linkedin
       link: https://www.linkedin.com/in/eleanor-forte/
@@ -84,7 +84,7 @@
       link: https://www.youtube.com/watch?v=dQw4w9WgXcQ
 - label: Swapna Sama
   tagline: Web Developer
-  avatar: https://scontent.fyyc2-1.fna.fbcdn.net/v/t1.18169-9/12509841_943849245682381_5251708693323453949_n.jpg?_nc_cat=108&ccb=1-3&_nc_sid=174925&_nc_ohc=9PvLjnUV4YcAX-zEqYI&_nc_ht=scontent.fyyc2-1.fna&oh=7329559c0b58595d8dd9fd37741ee700&oe=60A42C37
+  avatar: swapna.jpg
   links:
     - label: github
       link: https://github.com/swappnasama
@@ -94,7 +94,7 @@
       link: https://www.facebook.com/swapna.sama
 - label: Erica
   tagline: crying my way to the moon with my tendies
-  avatar: https://i.imgur.com/6QP9xmV.jpg
+  avatar: erica.jpg
   links:
     - label: linkedin
       link: https://www.linkedin.com/in/ericatrinh/
@@ -102,7 +102,7 @@
       link: https://github.com/ertrinhh
 - label: Boxiang Xu
   tagline: Sometime I feel like a developer, sometimes I don't
-  avatar: http://welivemedia.ca/wp-content/uploads/2021/04/DX2.jpg
+  avatar: boxiang.jpg
   links:
     - label: linkedin
       link: https://www.linkedin.com/in/boxiang-xu-7a07b493/
@@ -112,7 +112,7 @@
       link: https://codepen.io/Togepi_xbx
 - label: Joseph Butcher
   tagline: Front End Developer
-  avatar: https://previews.dropbox.com/p/thumb/ABLTHhIn4weN0oMhly0ShvamVSc5uQMnWvu7LrVDL9gUBISvGhzFGpsrRchOwMJb24jvVHK7YhkAWn4CRFek6ZJ6hmqoHTc8Wk9d6TkNjc8_X_89GXGGSxVO693_q6__EtKDr_mI4cG1LjGwAx09XO_psehm3DviMg1PpF8CzrA1uXIOvJgawex6lNa538apOlVNxJe1D91OOpoVGS7WqZVV8jqAlvBFBIw7ioXvhQLh0Nhbh_Y9TOzFwBcyUSBKvX5IQfpi-MmrXveRMG5FWu5dz7ybcxFy-w0__1XGRm8rD0KqjPfy-wCpDZMesyn_S-miSQgHXFe4LO0eAT2j3VqcaBvEKDi81l5DGsGrYwvnpg/p.jpeg?fv_content=true&size_mode=5 
+  avatar: joe.jpg 
   links:
     - label: github
       link: https://github.com/JoeButchxxx
@@ -120,7 +120,7 @@
       link: https://www.linkedin.com/in/joseph-butcher-9a560a203/
 - label: Bruk Gebremariam
   tagline: Junior Web Developer 
-  avatar: https://github.com/B-290/cpnt260-a3
+  avatar: bruk.jpg
   links:
     - label: github
       link: https://github.com/B-290
@@ -130,7 +130,7 @@
       link: https://www.linkedin.com/in/bruk-gebremariam
 - label: Vitaly Gins
   tagline: Russian website don't break, russian website breaks you.
-  avatar: https://avatars.githubusercontent.com/u/77210355
+  avatar: vitaly.jpg
   links:
     - label: github
       link: https://github.com/gvitaly87
@@ -142,7 +142,7 @@
       link: mailto:vitaly.gins@gmail.com
 - label: Michael Hintz
   tagline: front-end developer
-  avatar: 
+  avatar: michael.png
   links:
     - label: github
       link: https://github.com/michaelhintz16
@@ -150,7 +150,7 @@
       link: https://www.linkedin.com/in/michael-hintz-341a3620b/
 - label: Jess Luu
   tagline: Jess is typing...
-  avatar: https://imgur.com/a/Eg8FgQC
+  avatar: jess.png
   links:
     - label: Linkedin
       link: https://www.linkedin.com/in/jess-luu38/
@@ -161,8 +161,8 @@
     - label: Email
       link: mailto:jessicaluu38@gmail.com
 - label: Dustin Shulz
-  tagline: Coding and customer service is my forte!
-  avatar: https://avatars.githubusercontent.com/u/77306865?s=400&u=dbeeec6b21399b03320dea3af0d342e9acd896f8&v=4
+  tagline: Coding and customer service are my forte!
+  avatar: dustin.jpg
   links:
     - label: linkedin
       link: https://www.linkedin.com/in/dustinshulz/
@@ -174,7 +174,7 @@
       link: mailto:dustin.shulz@gmail.com
 - label: Petr Slobodcicov
   tagline: code on
-  avatar: https://imgur.com/a/EQgQgt2
+  avatar: petr.png
   links:
     - label: github
       link: https://github.com/petrslo
@@ -184,7 +184,7 @@
       link: https://www.linkedin.com/in/petr-slobodcicov-170222168/
 - label: Patrick Teskey
   tagline: Junior Fullstack Developer
-  avatar: https://i.imgur.com/r5zv1ul.jpeg
+  avatar: patrick.jpg
   links:
     - label: github
       link: https://github.com/pteskey
@@ -192,15 +192,41 @@
       link: https://www.linkedin.com/in/patrick-teskey/
     - label: codepen
       link: https://codepen.io/patrickteskey
-- label: 
-  tagline: 
-  avatar: 
+- label: Kyle Welsh
+  tagline: If you ain't cryin, you ain't tryin.
+  avatar: kyle.jpg
   links:
-    - label: 
-      link: 
-- label: 
+    - label: github
+      link: https://github.com/Kylewwelsh
+    - label: codepen
+      link: https://codepen.io/kylewwelsh
+    - label: linkedin
+      link: www.linkedin.com/in/kyle-welsh-b6690168
+- label: Xia Lin
+  tagline: Junior Web Developer
+  avatar: xa.jpg
+  links:
+    - label: github
+      link: https://github.com/linxia25
+    - label: codepen
+      link: https://codepen.io/Xia-Lin
+    - label: linkedin
+      link: https://www.linkedin.com/in/aitike/
+- label: Ashlyn Knox
+  tagline: Linux Powered 
+  avatar: ash.jpg
+  links:
+    - label: github
+      link: https://github.com/ashlyn-knox
+    - label: codepen
+      link: https://codepen.io/ashlyn-knox
+    - label: fedora
+      link: https://pagure.io/user/lilyx
+    - label: linkedIn
+      link: https://linkedin.com/in/ashlyn-knox13 
+- label: Mike Allison
   tagline: 
-  avatar: 
+  avatar: mike.jpg
   links:
     - label: 
       link: 
