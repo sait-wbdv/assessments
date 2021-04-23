@@ -225,8 +225,10 @@
     - label: linkedIn
       link: https://linkedin.com/in/ashlyn-knox13 
 - label: Mike Allison
-  tagline: 
+  tagline: Bots will rule the future
   avatar: mike.jpg
   links:
-    - label: 
-      link: 
+    - label: github
+      link: https://github.com/Huntthee
+    - label: linkedin
+      link: https://www.linkedin.com/in/mike-allison-web-dev/
