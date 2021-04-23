@@ -9,7 +9,7 @@
 4. Mike
     - Discord bot with rental site
 5. Vitaly and Dustin
-    - Multi-player game
+    - Poker Texas Hold'Em
 
 ## Break 1
 - poker time
@@ -18,27 +18,25 @@
 - Norvillie
     - Machine learning with hardware integration
 - Swapna
+    - Beautiful Homes
 - Shivani
     - Business WP website
 - Karen
     - Portfolio website
 - Jess
-- Makayla
-    - portfolio website
+    - Media Tracker
 - Ed and Michael
     - Greensock-apolooza
-- 
 
 ## Round 3
-- Aidan
+- Aidan O'Reilly
     - Spotify API
 - Boxiang Xu
     - Business WP website
-- 
-- 
-- 
-- 
-- 
-- 
+- Patrick Teskey
+    - Recipe App
+- Xia Lin
+    - Drone Delivery
+- Ashlyn Knox
+    - Ground Breaking
 
-## Unscheduled presentations
