@@ -8,6 +8,9 @@
       link:  https://codepen.io/edirvine333
     - label: linkedin
       link: https://www.linkedin.com/in/edirvine333/
+  badges:
+    - name: plus-one
+    - name: code-warrior
 - label: Makayla M.R
   tagline: Frontend Web Developer. Strong interest in graphic and motion design. 
   avatar: makayla.jpg
@@ -26,6 +29,10 @@
       link: https://www.linkedin.com/in/aidan-oreilly/
     - label: github
       link: https://github.com/Aidano93
+  badges: 
+    - name: plus-one
+    - name: attendance
+    - name: code-warrior
 - label: Joel Kaye
   tagline: Will code for food and precious metals
   avatar: joel.jpg
@@ -34,6 +41,9 @@
       link: https://www.linkedin.com/in/joel-kaye
     - label: github
       link: https://github.com/kayej22
+  badges: 
+    - name: attendance
+    - name: early-riser
 - label: Shivani Patel
   tagline: Junior Full Stack Developer
   avatar: shivani.jpg
@@ -44,6 +54,10 @@
       link: https://github.com/Shi-stack
     - label: linkedin
       link: https://www.linkedin.com/in/shivanipatel90ec/
+  badges: 
+    - name: attendance
+    - name: code-warrior
+    - name: early-riser
 - label: Isha Simran
   tagline: Frontend Web Developer and Graphic Designer
   avatar: isha.jpg
@@ -64,6 +78,9 @@
       link: https://github.com/nerakmari
     - label: instagram
       link: https://www.instagram.com/krensule/
+  badges: 
+    - name: plus-one
+    - name: attendance
 - label: Norvillie Villaruel
   tagline: Async life return await success in life;
   avatar: norvillie.jpg
@@ -74,6 +91,9 @@
       link: https://codepen.io/nozky
     - label: linkedin
       link: https://www.linkedin.com/in/norvillie-villaruel/
+  badges: 
+    - name: coach
+    - name: attendance
 - label: Ellie Forte
   tagline: Get Rich or Cry Trying
   avatar: ellie.jpg
@@ -92,6 +112,8 @@
       link: https://www.linkedin.com/in/swapna-sama/
     - label: facebook 
       link: https://www.facebook.com/swapna.sama
+  badges:
+    - name: code-warrior
 - label: Erica
   tagline: crying my way to the moon with my tendies
   avatar: erica.jpg
@@ -100,6 +122,8 @@
       link: https://www.linkedin.com/in/ericatrinh/
     - label: github
       link: https://github.com/ertrinhh
+  badges:
+    - name: plus-one
 - label: Boxiang Xu
   tagline: Sometime I feel like a developer, sometimes I don't
   avatar: boxiang.jpg
@@ -140,6 +164,9 @@
       link: https://www.linkedin.com/in/vitaly-gins/
     - label: email
       link: mailto:vitaly.gins@gmail.com
+  badges: 
+    - name: mvp
+    - name: attendance
 - label: Michael Hintz
   tagline: front-end developer
   avatar: michael.png
@@ -148,6 +175,9 @@
       link: https://github.com/michaelhintz16
     - label: linkedin
       link: https://www.linkedin.com/in/michael-hintz-341a3620b/
+  badges: 
+    - name: attendance
+    - name: early-riser
 - label: Jess Luu
   tagline: Jess is typing...
   avatar: jess.png
@@ -160,6 +190,9 @@
       link: https://codepen.io/jl38
     - label: Email
       link: mailto:jessicaluu38@gmail.com
+  badges:
+    - name: plus-one
+    - name: attendance
 - label: Dustin Shulz
   tagline: Coding and customer service are my forte!
   avatar: dustin.jpg
@@ -172,6 +205,8 @@
       link: https://codepen.io/cowtowndusty
     - label: email
       link: mailto:dustin.shulz@gmail.com
+  badges: 
+    - name: attendance
 - label: Petr Slobodcicov
   tagline: code on
   avatar: petr.png
@@ -202,6 +237,8 @@
       link: https://codepen.io/kylewwelsh
     - label: linkedin
       link: www.linkedin.com/in/kyle-welsh-b6690168
+  badges:
+    - name: plus-one
 - label: Xia Lin
   tagline: Junior Web Developer
   avatar: xa.jpg
@@ -212,6 +249,8 @@
       link: https://codepen.io/Xia-Lin
     - label: linkedin
       link: https://www.linkedin.com/in/aitike/
+  badges: 
+    - name: attendance
 - label: Ashlyn Knox
   tagline: Linux Powered Web DEVil 
   avatar: ash.jpg
@@ -224,6 +263,8 @@
       link: https://pagure.io/user/lilyx
     - label: linkedIn
       link: https://linkedin.com/in/ashlyn-knox13 
+  badges:
+    - name: special-teams
 - label: Mike Allison
   tagline: Bots will rule the future
   avatar: mike.jpg
@@ -232,3 +273,6 @@
       link: https://github.com/Huntthee
     - label: linkedin
       link: https://www.linkedin.com/in/mike-allison-web-dev/
+  badges: 
+    - name: attendance
+    - name: code-warrior
